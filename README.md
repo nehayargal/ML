@@ -1,85 +1,12 @@
-# 🧠 Machine Learning & Applied AI Portfolio
+# Machine Learning Experiments & Data Workflows
 
-A curated collection of real-world Machine Learning, NLP, Web Scraping, and Data Analysis projects.
+A collection of applied machine learning and data exploration projects spanning structured data analysis, text processing, automation, and lightweight API integration.
 
-This repository demonstrates hands-on experience across:
-
-- Exploratory Data Analysis (Tabular + Text)
-- NLP Pipelines
-- API Development
-- Web Scraping & Data Collection
-- Feature Engineering
-- Practical ML Workflow Design
+The repository brings together exploratory analysis, NLP experimentation, web scraping pipelines, and reusable data processing patterns.
 
 ---
 
-## 📌 Repository Overview
-
-| Module | Description | Key Skills |
-|--------|-------------|------------|
-| 📊 EDA-Tabular (IRS dataset) | Data exploration, statistical analysis, feature engineering | Pandas, NumPy, Data Visualization |
-| 📝 EDA-Text | NLP preprocessing and text analysis | Tokenization, TF-IDF, Text Cleaning |
-| 📰 RSS | RSS feed parsing and automation | Data ingestion pipelines |
-| 🕷️ Scrapy | Structured web scraping projects | Scrapy, Data extraction |
-| 🌐 Web Scraping | Python-based scraping workflows | BeautifulSoup, Requests |
-| 🔌 API | API-based ML/data workflows | REST APIs, Data serving |
-
----
-
-## 🚀 Highlights
-
-### 1️⃣ End-to-End ML Workflow Experience
-Each project demonstrates:
-- Data acquisition
-- Cleaning & preprocessing
-- Feature engineering
-- Analysis & insights generation
-- Code modularity & reproducibility
-
----
-
-### 2️⃣ Real-World Data Engineering Exposure
-
-Includes:
-- Automated scraping pipelines
-- Structured data ingestion
-- Text normalization workflows
-- Dataset transformation for modeling
-
----
-
-### 3️⃣ NLP & Text Processing Foundations
-
-Applied techniques:
-- Tokenization
-- Stopword removal
-- Text vectorization (TF-IDF)
-- Basic NLP analytics
-
----
-
-### 4️⃣ API & Integration Skills
-
-- Building and consuming APIs
-- Structuring ML outputs
-- Integrating data pipelines with external services
-
----
-
-## 🛠️ Tech Stack
-
-- Python
-- Pandas / NumPy
-- Matplotlib / Seaborn
-- Scikit-learn
-- BeautifulSoup
-- Scrapy
-- REST APIs
-- Jupyter Notebook
-
----
-
-## 📂 Repository Structure
+## Repository Structure
 
 ML/
 │
@@ -94,56 +21,94 @@ ML/
 
 ---
 
-## 📈 Engineering Practices Demonstrated
+## Overview
 
-- Modular project structure
-- Data workflow clarity
-- Clear separation of concerns
-- Reproducible analysis notebooks
-- Practical automation use cases
-- Real-world dataset handling
+The projects in this repository explore different stages of the data lifecycle:
 
----
+- Data acquisition from public sources
+- Cleaning and preprocessing of structured and unstructured datasets
+- Feature extraction and transformation
+- Exploratory data analysis
+- Lightweight automation workflows
+- Integration with external APIs
 
-## 🧩 What This Shows About My Skillset
-
-This repository reflects:
-
-- Ability to handle messy real-world data
-- Strong analytical thinking
-- Experience across structured & unstructured datasets
-- Comfort with both backend data workflows and applied ML
-- Practical automation experience
-- Curiosity-driven experimentation with applied AI systems
+Each module focuses on a practical use case while maintaining readable and modular code.
 
 ---
 
-## 🎯 Future Enhancements
+## Selected Modules
 
-Planned improvements:
+### 📊 EDA – Tabular Data (IRS Dataset)
 
-- Add model evaluation metrics dashboards
-- Add production-ready ML pipeline examples
-- Integrate FastAPI-based model serving
-- Add Dockerized ML environment
-- Add CI for reproducibility checks
+Exploration and statistical analysis of structured datasets, including:
 
----
-
-## 👩‍💻 About Me
-
-**Neha Yargal**  
-Machine Learning & Platform Engineer  
-Specializing in scalable backend systems and AI-driven workflows.
+- Data profiling and distribution analysis
+- Handling missing values
+- Feature transformation
+- Visualization-driven insight generation
 
 ---
 
-## ⭐ Why This Repository Exists
+### 📝 EDA – Text
 
-To showcase practical, hands-on applied ML engineering beyond just model training — including:
+Experiments with text normalization and preprocessing:
 
-- Data sourcing
-- Transformation
-- Automation
-- Integration
-- Engineering thinking
+- Tokenization
+- Stopword removal
+- Text cleaning strategies
+- Basic vectorization techniques
+
+---
+
+### 🕷️ Scrapy & Web Scraping
+
+Automated data collection pipelines using:
+
+- Scrapy spiders
+- HTML parsing
+- Structured extraction
+- Iterative refinement of selectors
+
+---
+
+### 📰 RSS Processing
+
+RSS ingestion and structured parsing workflows for automated data retrieval and transformation.
+
+---
+
+### 🔌 API Module
+
+Lightweight API interaction and data exchange patterns supporting modular workflows.
+
+---
+
+## Tooling & Environment
+
+- Python
+- Pandas / NumPy
+- Matplotlib / Seaborn
+- Scikit-learn
+- BeautifulSoup
+- Scrapy
+- REST APIs
+- Jupyter Notebooks
+
+---
+
+## Notes
+
+- Projects are organized to allow independent experimentation.
+- Data preprocessing logic is kept explicit and traceable.
+- External credentials are managed through environment variables.
+- Directory structure reflects separation between data acquisition and analysis.
+
+---
+
+## Future Directions
+
+- Expanded modeling experiments
+- Pipeline orchestration refinements
+- Structured evaluation metrics
+- Reproducibility improvements
+- Extended API integrations
