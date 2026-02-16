@@ -1,0 +1,1038 @@
+{
+   "count": 13,
+   "start": 1,
+   "limit": 500,
+   "docs": [
+      {
+         "id": "869c35538bb940e9d09842187566b107",
+         "@context": "http://dp.la/api/items/context",
+         "@id": "http://dp.la/api/items/869c35538bb940e9d09842187566b107",
+         "aggregatedCHO": "#sourceResource",
+         "dataProvider": "United States Government Publishing Office (GPO)",
+         "ingestDate": "2020-02-03T16:51:10.618Z",
+         "ingestType": "item",
+         "isShownAt": "http://catalog.gpo.gov/F/?func=direct&doc_number=001097827&format=999",
+         "object": "http://fdlp.gov/images/gpo-tn.jpg",
+         "originalRecord": {
+            "stringValue": "<record \nxmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n  <header>\n    <identifier>oai:catalog.gpo.gov:GPO01-001097827</identifier>\n    <datestamp>2019-12-19T00:33:07Z</datestamp>\n    <setSpec>PURL_ALL</setSpec>\n  </header>\n  <metadata>\n    <marc:record \n    xsi:schemaLocation=\"http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd\" xmlns:marc=\"http://www.loc.gov/MARC21/slim\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n      <marc:leader>00000cam 2200565 i 4500</marc:leader>\n      <marc:controlfield tag=\"001\">001097827</marc:controlfield>\n      <marc:controlfield tag=\"005\">20191218134650.0</marc:controlfield>\n      <marc:controlfield tag=\"006\">m o d f</marc:controlfield>\n      <marc:controlfield tag=\"007\">cr c||||||||||</marc:controlfield>\n      <marc:controlfield tag=\"008\">\n        190628s2018    dcua    ob   f000 0 eng c\n      </marc:controlfield>\n      <marc:datafield tag=\"035\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">(OCoLC)1105986851</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"040\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">GPO</marc:subfield>\n        <marc:subfield code=\"b\">eng</marc:subfield>\n        <marc:subfield code=\"e\">rda</marc:subfield>\n        <marc:subfield code=\"e\">pn</marc:subfield>\n        <marc:subfield code=\"c\">GPO</marc:subfield>\n        <marc:subfield code=\"d\">OCLCQ</marc:subfield>\n        <marc:subfield code=\"d\">OCLCF</marc:subfield>\n        <marc:subfield code=\"d\">GPO</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"042\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">pcc</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"043\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">n-us---</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"074\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">0982-G-11 (online)</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"086\" ind1=\"0\" ind2=\" \">\n        <marc:subfield code=\"a\">TD 2.30:18-066</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"088\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">FHWA-HRT-18-066</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"088\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">HRTM-30/12-18(1 M)E</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"110\" ind1=\"2\" ind2=\" \">\n        <marc:subfield code=\"a\">\n          Exploratory Advanced Research Program (U.S.)\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"245\" ind1=\"1\" ind2=\"0\">\n        <marc:subfield code=\"a\">\n          Exploratory Advanced Research Program : the role of artificial intelligence and machine learning in federally supported surface transportation initiatives.\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"246\" ind1=\"3\" ind2=\"0\">\n        <marc:subfield code=\"a\">\n          Role of artificial intelligence and machine learning in federally supported surface transportation initiatives\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"246\" ind1=\"1\" ind2=\"7\">\n        <marc:subfield code=\"a\">\n          EAR Program--the role of artificial intelligence and machine learning in federally supported surface transportation initiatives\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"264\" ind1=\" \" ind2=\"1\">\n        <marc:subfield code=\"a\">[Washington, D.C.] :</marc:subfield>\n        <marc:subfield code=\"b\">\n          U.S. Department of Transportation, Federal Highway Administration,\n        </marc:subfield>\n        <marc:subfield code=\"c\">[2018]</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"300\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">1 online resource (12 pages) :</marc:subfield>\n        <marc:subfield code=\"b\">color illustrations</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"336\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">text</marc:subfield>\n        <marc:subfield code=\"b\">txt</marc:subfield>\n        <marc:subfield code=\"2\">rdacontent</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"337\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">computer</marc:subfield>\n        <marc:subfield code=\"b\">c</marc:subfield>\n        <marc:subfield code=\"2\">rdamedia</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"338\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">online resource</marc:subfield>\n        <marc:subfield code=\"b\">cr</marc:subfield>\n        <marc:subfield code=\"2\">rdacarrier</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"588\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          Description based on online resource, PDF version; title from cover (FHWA, viewed May 17, 2019).\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"500\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          &quot;FHWA-HRT-18-066&quot;--Page 4 of cover.\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"500\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          &quot;HRTM-30/12-18(1M)E.&quot;--Page 4 of cover.\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"504\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          Includes bibliographical references (page 3 of cover).\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"610\" ind1=\"2\" ind2=\"0\">\n        <marc:subfield code=\"a\">\n          Exploratory Advanced Research Program (U.S.)\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Highway engineering</marc:subfield>\n        <marc:subfield code=\"x\">Research</marc:subfield>\n        <marc:subfield code=\"z\">United States.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Intelligent transportation systems</marc:subfield>\n        <marc:subfield code=\"z\">United States.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Artificial intelligence</marc:subfield>\n        <marc:subfield code=\"x\">Research</marc:subfield>\n        <marc:subfield code=\"z\">United States.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Machine learning</marc:subfield>\n        <marc:subfield code=\"x\">Research</marc:subfield>\n        <marc:subfield code=\"z\">United States.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"610\" ind1=\"2\" ind2=\"7\">\n        <marc:subfield code=\"a\">\n          Exploratory Advanced Research Program (U.S.)\n        </marc:subfield>\n        <marc:subfield code=\"2\">fast</marc:subfield>\n        <marc:subfield code=\"0\">(OCoLC)fst01781742</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"7\">\n        <marc:subfield code=\"a\">Artificial intelligence</marc:subfield>\n        <marc:subfield code=\"x\">Research.</marc:subfield>\n        <marc:subfield code=\"2\">fast</marc:subfield>\n        <marc:subfield code=\"0\">(OCoLC)fst00817278</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"7\">\n        <marc:subfield code=\"a\">Highway engineering</marc:subfield>\n        <marc:subfield code=\"x\">Research.</marc:subfield>\n        <marc:subfield code=\"2\">fast</marc:subfield>\n        <marc:subfield code=\"0\">(OCoLC)fst00956664</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"7\">\n        <marc:subfield code=\"a\">Intelligent transportation systems.</marc:subfield>\n        <marc:subfield code=\"2\">fast</marc:subfield>\n        <marc:subfield code=\"0\">(OCoLC)fst01723430</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"651\" ind1=\" \" ind2=\"7\">\n        <marc:subfield code=\"a\">United States.</marc:subfield>\n        <marc:subfield code=\"2\">fast</marc:subfield>\n        <marc:subfield code=\"0\">(OCoLC)fst01204155</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"710\" ind1=\"1\" ind2=\" \">\n        <marc:subfield code=\"a\">United States.</marc:subfield>\n        <marc:subfield code=\"b\">Federal Highway Administration,</marc:subfield>\n        <marc:subfield code=\"e\">issuing body.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"776\" ind1=\"0\" ind2=\"8\">\n        <marc:subfield code=\"i\">Print version:</marc:subfield>\n        <marc:subfield code=\"a\">\n          Exploratory Advanced Research Program (U.S.).\n        </marc:subfield>\n        <marc:subfield code=\"t\">\n          Exploratory Advanced Research Program : the role of artificial intelligence and machine learning in federally supported surface transportation initiatives\n        </marc:subfield>\n        <marc:subfield code=\"w\">(OCoLC)1101122564</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\"4\" ind2=\"0\">\n        <marc:subfield code=\"u\">https://purl.fdlp.gov/GPO/gpo120610</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\"4\" ind2=\" \">\n        <marc:subfield code=\"u\">\n          https://www.fhwa.dot.gov/publications/research/ear/18066/18066.pdf\n        </marc:subfield>\n        <marc:subfield code=\"z\">Address at the time of PURL creation</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"3\">(online)</marc:subfield>\n        <marc:subfield code=\"u\">\n          https://catalog.gpo.gov/fdlpdir/locate.jsp?ItemNumber=0982-G-11&amp;SYS=001097827\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"994\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">C0</marc:subfield>\n        <marc:subfield code=\"b\">GPO</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"049\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">GPOO</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"955\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">bcb77 20191218</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"955\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">BCS87</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"955\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">bc48 20190628</marc:subfield>\n        <marc:subfield code=\"b\">20190628</marc:subfield>\n      </marc:datafield>\n</marc:record>\n  </metadata>\n</record>\n"
+         },
+         "provider": {
+            "@id": "http://dp.la/api/contributor/gpo",
+            "name": "United States Government Publishing Office (GPO)"
+         },
+         "sourceResource": {
+            "@id": "http://dp.la/api/items/869c35538bb940e9d09842187566b107#SourceResource",
+            "contributor": [
+               "United States. Federal Highway Administration, issuing body"
+            ],
+            "creator": [
+               "Exploratory Advanced Research Program (U.S.)"
+            ],
+            "date": [
+               {
+                  "displayDate": "[2018]"
+               }
+            ],
+            "description": [
+               "Description based on online resource, PDF version; title from cover (FHWA, viewed May 17, 2019).",
+               "\"FHWA-HRT-18-066\"--Page 4 of cover.",
+               "\"HRTM-30/12-18(1M)E.\"--Page 4 of cover.",
+               "Includes bibliographical references (page 3 of cover)."
+            ],
+            "extent": [
+               "1 online resource (12 pages)"
+            ],
+            "format": [
+               "Language material",
+               "Electronic resource",
+               "Computer",
+               "Online resource"
+            ],
+            "identifier": [
+               "(OCoLC)1105986851",
+               "0982-G-11 (online)",
+               "TD 2.30:18-066"
+            ],
+            "publisher": [
+               "[Washington, D.C.] : U.S. Department of Transportation, Federal Highway Administration"
+            ],
+            "relation": [
+               "Print version:. Exploratory Advanced Research Program (U.S.). Exploratory Advanced Research Program : the role of artificial intelligence and machine learning in federally supported surface transportation initiatives. (OCoLC)1101122564."
+            ],
+            "rights": [
+               "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain. For more information please see http://www.gpo.gov/help/index.html#public_domain_copyright_notice.htm"
+            ],
+            "spatial": [
+               {
+                  "name": "United States"
+               }
+            ],
+            "subject": [
+               {
+                  "name": "Exploratory Advanced Research Program (U.S.)"
+               },
+               {
+                  "name": "Highway engineering--Research--United States"
+               },
+               {
+                  "name": "Intelligent transportation systems--United States"
+               },
+               {
+                  "name": "Artificial intelligence--Research--United States"
+               },
+               {
+                  "name": "Machine learning--Research--United States"
+               },
+               {
+                  "name": "Artificial intelligence--Research"
+               },
+               {
+                  "name": "Highway engineering--Research"
+               },
+               {
+                  "name": "Intelligent transportation systems"
+               },
+               {
+                  "name": "United States"
+               }
+            ],
+            "title": [
+               "Exploratory Advanced Research Program : the role of artificial intelligence and machine learning in federally supported surface transportation initiatives"
+            ],
+            "type": [
+               "text"
+            ]
+         },
+         "@type": "ore:Aggregation"
+      },
+      {
+         "id": "7d55b8f9382031901b5e4779bf52f3f5",
+         "@context": "http://dp.la/api/items/context",
+         "@id": "http://dp.la/api/items/7d55b8f9382031901b5e4779bf52f3f5",
+         "aggregatedCHO": "#sourceResource",
+         "dataProvider": "United States Government Publishing Office (GPO)",
+         "ingestDate": "2020-02-03T16:51:10.618Z",
+         "ingestType": "item",
+         "isShownAt": "http://catalog.gpo.gov/F/?func=direct&doc_number=001028777&format=999",
+         "object": "http://fdlp.gov/images/gpo-tn.jpg",
+         "originalRecord": {
+            "stringValue": "<record \nxmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n  <header>\n    <identifier>oai:catalog.gpo.gov:GPO01-001028777</identifier>\n    <datestamp>2017-09-25T13:17:26Z</datestamp>\n    <setSpec>PURL_ALL</setSpec>\n  </header>\n  <metadata>\n    <marc:record \n    xsi:schemaLocation=\"http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd\" xmlns:marc=\"http://www.loc.gov/MARC21/slim\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n      <marc:leader> nam 2200493 i 4500</marc:leader>\n      <marc:controlfield tag=\"001\">001028777</marc:controlfield>\n      <marc:controlfield tag=\"005\">20170915090110.0</marc:controlfield>\n      <marc:controlfield tag=\"006\">m o d f</marc:controlfield>\n      <marc:controlfield tag=\"007\">cr |||||||||||</marc:controlfield>\n      <marc:controlfield tag=\"008\">\n        170911e198710  vaua    obt  f000 0 eng c\n      </marc:controlfield>\n      <marc:datafield tag=\"035\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">(OCoLC)1003292729</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"040\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">GPO</marc:subfield>\n        <marc:subfield code=\"b\">eng</marc:subfield>\n        <marc:subfield code=\"e\">rda</marc:subfield>\n        <marc:subfield code=\"e\">pn</marc:subfield>\n        <marc:subfield code=\"c\">GPO</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"042\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">pcc</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"043\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">n-us---</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"074\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">0330-E-04 (online)</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"086\" ind1=\"0\" ind2=\" \">\n        <marc:subfield code=\"a\">D 101.60/9:87-50</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"100\" ind1=\"1\" ind2=\" \">\n        <marc:subfield code=\"a\">Carbonell, Jaime G.</marc:subfield>\n        <marc:subfield code=\"q\">(Jaime Guillermo),</marc:subfield>\n        <marc:subfield code=\"e\">author.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"245\" ind1=\"1\" ind2=\"0\">\n        <marc:subfield code=\"a\">Learning by experimentation /</marc:subfield>\n        <marc:subfield code=\"c\">Jamie G. Carbonell.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"264\" ind1=\" \" ind2=\"1\">\n        <marc:subfield code=\"a\">Alexandria, VA :</marc:subfield>\n        <marc:subfield code=\"b\">\n          U.S. Army Research Institute for the Behavioral and Social Sciences,\n        </marc:subfield>\n        <marc:subfield code=\"c\">October 1987.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"300\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">1 online resource (i, 12 pages) :</marc:subfield>\n        <marc:subfield code=\"b\">illustrations.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"336\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">text</marc:subfield>\n        <marc:subfield code=\"b\">txt</marc:subfield>\n        <marc:subfield code=\"2\">rdacontent</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"337\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">computer</marc:subfield>\n        <marc:subfield code=\"b\">c</marc:subfield>\n        <marc:subfield code=\"2\">rdamedia</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"338\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">online resource</marc:subfield>\n        <marc:subfield code=\"b\">cr</marc:subfield>\n        <marc:subfield code=\"2\">rdacarrier</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"490\" ind1=\"1\" ind2=\" \">\n        <marc:subfield code=\"a\">ARI research note ;</marc:subfield>\n        <marc:subfield code=\"v\">87-50</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"588\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          Description based on online resource; title from PDF cover (DTIC, viewed May 11, 2017).\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"513\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">Interim report;</marc:subfield>\n        <marc:subfield code=\"b\">January 86 - January 87.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"500\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">&quot;October 1987.&quot;</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"500\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          &quot;Performing organization: Carnegie-Mellon University, Computer Science Department&quot;--Report documentation page.\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"500\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          &quot;Judith Orasanu, contracting officer's representative&quot;--Report documentation page.\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"536\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"b\">MDA903-85-C-0324</marc:subfield>\n        <marc:subfield code=\"d\">2Q161102B74F</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"504\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          Includes bibliographical references (pages 9-10).\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"610\" ind1=\"1\" ind2=\"0\">\n        <marc:subfield code=\"a\">United States.</marc:subfield>\n        <marc:subfield code=\"b\">Army</marc:subfield>\n        <marc:subfield code=\"x\">Officials and employees.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Machine learning.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Artificial intelligence.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"710\" ind1=\"2\" ind2=\" \">\n        <marc:subfield code=\"a\">Carnegie-Mellon University.</marc:subfield>\n        <marc:subfield code=\"b\">Computer Science Department.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"710\" ind1=\"2\" ind2=\" \">\n        <marc:subfield code=\"a\">\n          U.S. Army Research Institute for the Behavioral and Social Sciences,\n        </marc:subfield>\n        <marc:subfield code=\"e\">issuing body.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"776\" ind1=\"0\" ind2=\"8\">\n        <marc:subfield code=\"i\">Print version:</marc:subfield>\n        <marc:subfield code=\"a\">Carbonell, Jaime G. (Jaime Guillermo).</marc:subfield>\n        <marc:subfield code=\"t\">Learning by experimentation</marc:subfield>\n        <marc:subfield code=\"w\">(OCoLC)21168423</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"830\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">ARI research note ;</marc:subfield>\n        <marc:subfield code=\"v\">87-50.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\"4\" ind2=\"0\">\n        <marc:subfield code=\"u\">https://purl.fdlp.gov/GPO/gpo82843</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\"4\" ind2=\" \">\n        <marc:subfield code=\"z\">Address at time of PURL creation</marc:subfield>\n        <marc:subfield code=\"u\">\n          http://www.dtic.mil/dtic/tr/fulltext/u2/a188912.pdf\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"3\">(online)</marc:subfield>\n        <marc:subfield code=\"u\">\n          https://catalog.gpo.gov/fdlpdir/locate.jsp?ItemNumber=0330-E-04&amp;SYS=001028777\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"994\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">C0</marc:subfield>\n        <marc:subfield code=\"b\">GPO</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"049\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">XZL4</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"955\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">bc76 20170915</marc:subfield>\n        <marc:subfield code=\"b\">20170915</marc:subfield>\n      </marc:datafield>\n</marc:record>\n  </metadata>\n</record>\n"
+         },
+         "provider": {
+            "@id": "http://dp.la/api/contributor/gpo",
+            "name": "United States Government Publishing Office (GPO)"
+         },
+         "sourceResource": {
+            "@id": "http://dp.la/api/items/7d55b8f9382031901b5e4779bf52f3f5#SourceResource",
+            "contributor": [
+               "U.S. Army Research Institute for the Behavioral and Social Sciences, issuing body"
+            ],
+            "creator": [
+               "Carbonell, Jaime G. (Jaime Guillermo), author"
+            ],
+            "date": [
+               {
+                  "displayDate": "October 1987"
+               }
+            ],
+            "description": [
+               "Description based on online resource; title from PDF cover (DTIC, viewed May 11, 2017).",
+               "Interim report;",
+               "January 86 - January 87.",
+               "\"October 1987.\"",
+               "\"Performing organization: Carnegie-Mellon University, Computer Science Department\"--Report documentation page.",
+               "\"Judith Orasanu, contracting officer's representative\"--Report documentation page.",
+               "MDA903-85-C-0324",
+               "2Q161102B74F",
+               "Includes bibliographical references (pages 9-10)."
+            ],
+            "extent": [
+               "1 online resource (i, 12 pages)"
+            ],
+            "format": [
+               "Language material",
+               "Electronic resource",
+               "Computer",
+               "Online resource"
+            ],
+            "identifier": [
+               "(OCoLC)1003292729",
+               "0330-E-04 (online)",
+               "D 101.60/9:87-50"
+            ],
+            "publisher": [
+               "Alexandria, VA : U.S. Army Research Institute for the Behavioral and Social Sciences"
+            ],
+            "relation": [
+               "ARI research note ;. 87-50.",
+               "Print version:. Carbonell, Jaime G. (Jaime Guillermo). Learning by experimentation. (OCoLC)21168423."
+            ],
+            "rights": [
+               "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain. For more information please see http://www.gpo.gov/help/index.html#public_domain_copyright_notice.htm"
+            ],
+            "subject": [
+               {
+                  "name": "United States. Army--Officials and employees"
+               },
+               {
+                  "name": "Machine learning"
+               },
+               {
+                  "name": "Artificial intelligence"
+               }
+            ],
+            "title": [
+               "Learning by experimentation"
+            ],
+            "type": [
+               "text"
+            ]
+         },
+         "@type": "ore:Aggregation"
+      },
+      {
+         "id": "f3651a7f94379928c682782cc4e9c9e8",
+         "@context": "http://dp.la/api/items/context",
+         "@id": "http://dp.la/api/items/f3651a7f94379928c682782cc4e9c9e8",
+         "aggregatedCHO": "#sourceResource",
+         "dataProvider": "United States Government Publishing Office (GPO)",
+         "ingestDate": "2020-02-03T16:51:10.618Z",
+         "ingestType": "item",
+         "isShownAt": "http://catalog.gpo.gov/F/?func=direct&doc_number=001028778&format=999",
+         "object": "http://fdlp.gov/images/gpo-tn.jpg",
+         "originalRecord": {
+            "stringValue": "<record \nxmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n  <header>\n    <identifier>oai:catalog.gpo.gov:GPO01-001028778</identifier>\n    <datestamp>2017-11-14T11:56:52Z</datestamp>\n    <setSpec>PURL_ALL</setSpec>\n  </header>\n  <metadata>\n    <marc:record \n    xsi:schemaLocation=\"http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd\" xmlns:marc=\"http://www.loc.gov/MARC21/slim\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n      <marc:leader>00000nam 2200505 i 4500</marc:leader>\n      <marc:controlfield tag=\"001\">001028778</marc:controlfield>\n      <marc:controlfield tag=\"005\">20171108100032.0</marc:controlfield>\n      <marc:controlfield tag=\"006\">m o d f</marc:controlfield>\n      <marc:controlfield tag=\"007\">cr |||||||||||</marc:controlfield>\n      <marc:controlfield tag=\"008\">\n        170911e198711  vaua    obt  f000 0 eng c\n      </marc:controlfield>\n      <marc:datafield tag=\"035\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">(OCoLC)1003292717</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"040\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">GPO</marc:subfield>\n        <marc:subfield code=\"b\">eng</marc:subfield>\n        <marc:subfield code=\"e\">rda</marc:subfield>\n        <marc:subfield code=\"e\">pn</marc:subfield>\n        <marc:subfield code=\"c\">GPO</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"042\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">pcc</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"043\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">n-us---</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"074\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">0330-E-04 (online)</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"086\" ind1=\"0\" ind2=\" \">\n        <marc:subfield code=\"a\">D 101.60/9:87-56</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"100\" ind1=\"1\" ind2=\" \">\n        <marc:subfield code=\"a\">Glass, A.</marc:subfield>\n        <marc:subfield code=\"q\">(Alan),</marc:subfield>\n        <marc:subfield code=\"e\">editor.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"245\" ind1=\"1\" ind2=\"0\">\n        <marc:subfield code=\"a\">\n          Individual differences in hemispheric specialization /\n        </marc:subfield>\n        <marc:subfield code=\"c\">A. Glass (editor).</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"264\" ind1=\" \" ind2=\"1\">\n        <marc:subfield code=\"a\">Alexandria, VA :</marc:subfield>\n        <marc:subfield code=\"b\">\n          U.S. Army Research Institute for the Behavioral and Social Sciences,\n        </marc:subfield>\n        <marc:subfield code=\"c\">November 1987.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"300\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">1 online resource (v, 388 pages) :</marc:subfield>\n        <marc:subfield code=\"b\">illustrations.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"336\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">text</marc:subfield>\n        <marc:subfield code=\"b\">txt</marc:subfield>\n        <marc:subfield code=\"2\">rdacontent</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"337\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">computer</marc:subfield>\n        <marc:subfield code=\"b\">c</marc:subfield>\n        <marc:subfield code=\"2\">rdamedia</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"338\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">online resource</marc:subfield>\n        <marc:subfield code=\"b\">cr</marc:subfield>\n        <marc:subfield code=\"2\">rdacarrier</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"490\" ind1=\"1\" ind2=\" \">\n        <marc:subfield code=\"a\">ARI research note ;</marc:subfield>\n        <marc:subfield code=\"v\">87-56</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"588\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          Description based on online resource; title from PDF cover (DTIC, viewed May 11, 2017).\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"513\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">Final report;</marc:subfield>\n        <marc:subfield code=\"b\">February 85 - February 87.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"500\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">&quot;November 1987.&quot;</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"500\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          &quot;Performing organization: University of Birmingham, Medical School, Department of Anatomy&quot;--Report documentation page.\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"500\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          &quot;Michael Kaplan, contracting officer's representative&quot;--Report documentation page.\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"500\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          &quot;Research note is the proceeding of a NATO ARW held in Maratea, Italy, October 1984&quot;--Report documentation page.\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"536\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"b\">DAJA45-85-M0184</marc:subfield>\n        <marc:subfield code=\"d\">2Q161102B74F</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"504\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">Includes bibliographical references.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"610\" ind1=\"1\" ind2=\"0\">\n        <marc:subfield code=\"a\">United States.</marc:subfield>\n        <marc:subfield code=\"b\">Army</marc:subfield>\n        <marc:subfield code=\"x\">Officials and employees.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Machine learning.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Artificial intelligence.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"710\" ind1=\"2\" ind2=\" \">\n        <marc:subfield code=\"a\">University of Birmingham.</marc:subfield>\n        <marc:subfield code=\"b\">Medical School.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"710\" ind1=\"2\" ind2=\" \">\n        <marc:subfield code=\"a\">\n          U.S. Army Research Institute for the Behavioral and Social Sciences,\n        </marc:subfield>\n        <marc:subfield code=\"e\">issuing body.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"776\" ind1=\"0\" ind2=\"8\">\n        <marc:subfield code=\"i\">Print version:</marc:subfield>\n        <marc:subfield code=\"t\">\n          Individual Differences in Hemispheric Specialization\n        </marc:subfield>\n        <marc:subfield code=\"w\">(OCoLC)227712849</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"830\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">ARI research note ;</marc:subfield>\n        <marc:subfield code=\"v\">87-56.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\"4\" ind2=\"0\">\n        <marc:subfield code=\"u\">https://purl.fdlp.gov/GPO/gpo82846</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\"4\" ind2=\" \">\n        <marc:subfield code=\"z\">Address at time of PURL creation</marc:subfield>\n        <marc:subfield code=\"u\">\n          http://www.dtic.mil/dtic/tr/fulltext/u2/a189282.pdf\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"3\">(online)</marc:subfield>\n        <marc:subfield code=\"u\">\n          https://catalog.gpo.gov/fdlpdir/locate.jsp?ItemNumber=0330-E-04&amp;SYS=001028778\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"994\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">C0</marc:subfield>\n        <marc:subfield code=\"b\">GPO</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"049\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">XZL4</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"955\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">bc76 20170915</marc:subfield>\n        <marc:subfield code=\"b\">20170915</marc:subfield>\n      </marc:datafield>\n</marc:record>\n  </metadata>\n</record>\n"
+         },
+         "provider": {
+            "@id": "http://dp.la/api/contributor/gpo",
+            "name": "United States Government Publishing Office (GPO)"
+         },
+         "sourceResource": {
+            "@id": "http://dp.la/api/items/f3651a7f94379928c682782cc4e9c9e8#SourceResource",
+            "contributor": [
+               "U.S. Army Research Institute for the Behavioral and Social Sciences, issuing body"
+            ],
+            "creator": [
+               "Glass, A. (Alan), editor"
+            ],
+            "date": [
+               {
+                  "displayDate": "November 1987"
+               }
+            ],
+            "description": [
+               "Description based on online resource; title from PDF cover (DTIC, viewed May 11, 2017).",
+               "Final report;",
+               "February 85 - February 87.",
+               "\"November 1987.\"",
+               "\"Performing organization: University of Birmingham, Medical School, Department of Anatomy\"--Report documentation page.",
+               "\"Michael Kaplan, contracting officer's representative\"--Report documentation page.",
+               "\"Research note is the proceeding of a NATO ARW held in Maratea, Italy, October 1984\"--Report documentation page.",
+               "DAJA45-85-M0184",
+               "2Q161102B74F",
+               "Includes bibliographical references."
+            ],
+            "extent": [
+               "1 online resource (v, 388 pages)"
+            ],
+            "format": [
+               "Language material",
+               "Electronic resource",
+               "Computer",
+               "Online resource"
+            ],
+            "identifier": [
+               "(OCoLC)1003292717",
+               "0330-E-04 (online)",
+               "D 101.60/9:87-56"
+            ],
+            "publisher": [
+               "Alexandria, VA : U.S. Army Research Institute for the Behavioral and Social Sciences"
+            ],
+            "relation": [
+               "ARI research note ;. 87-56.",
+               "Print version:. Individual Differences in Hemispheric Specialization. (OCoLC)227712849."
+            ],
+            "rights": [
+               "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain. For more information please see http://www.gpo.gov/help/index.html#public_domain_copyright_notice.htm"
+            ],
+            "subject": [
+               {
+                  "name": "United States. Army--Officials and employees"
+               },
+               {
+                  "name": "Machine learning"
+               },
+               {
+                  "name": "Artificial intelligence"
+               }
+            ],
+            "title": [
+               "Individual differences in hemispheric specialization"
+            ],
+            "type": [
+               "text"
+            ]
+         },
+         "@type": "ore:Aggregation"
+      },
+      {
+         "id": "063502d6a08cdb58e3043e730525938f",
+         "@context": "http://dp.la/api/items/context",
+         "@id": "http://dp.la/api/items/063502d6a08cdb58e3043e730525938f",
+         "aggregatedCHO": "#sourceResource",
+         "dataProvider": "United States Government Publishing Office (GPO)",
+         "ingestDate": "2020-02-03T16:51:10.618Z",
+         "ingestType": "item",
+         "isShownAt": "http://catalog.gpo.gov/F/?func=direct&doc_number=001106383&format=999",
+         "object": "http://fdlp.gov/images/gpo-tn.jpg",
+         "originalRecord": {
+            "stringValue": "<record \nxmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n  <header>\n    <identifier>oai:catalog.gpo.gov:GPO01-001106383</identifier>\n    <datestamp>2019-10-01T14:41:44Z</datestamp>\n    <setSpec>PURL_ALL</setSpec>\n  </header>\n  <metadata>\n    <marc:record \n    xsi:schemaLocation=\"http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd\" xmlns:marc=\"http://www.loc.gov/MARC21/slim\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n      <marc:leader> cam a2200445 i 4500</marc:leader>\n      <marc:controlfield tag=\"001\">001106383</marc:controlfield>\n      <marc:controlfield tag=\"005\">20190917141956.0</marc:controlfield>\n      <marc:controlfield tag=\"006\">m o d f</marc:controlfield>\n      <marc:controlfield tag=\"007\">cr |||||||||||</marc:controlfield>\n      <marc:controlfield tag=\"008\">\n        190917s2019    dcu     ob   f000 0 eng c\n      </marc:controlfield>\n      <marc:datafield tag=\"035\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">(OCoLC)1119723443</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"040\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">GPO</marc:subfield>\n        <marc:subfield code=\"b\">eng</marc:subfield>\n        <marc:subfield code=\"e\">rda</marc:subfield>\n        <marc:subfield code=\"e\">pn</marc:subfield>\n        <marc:subfield code=\"c\">GPO</marc:subfield>\n        <marc:subfield code=\"d\">GPO</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"042\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">pcc</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"043\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">n-us---</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"050\" ind1=\" \" ind2=\"4\">\n        <marc:subfield code=\"a\">KF26</marc:subfield>\n        <marc:subfield code=\"b\">.C69255 2017d</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"074\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">1041-C (online)</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"086\" ind1=\"0\" ind2=\" \">\n        <marc:subfield code=\"a\">Y 4.C 73/7:S.HRG.115-649</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"110\" ind1=\"1\" ind2=\" \">\n        <marc:subfield code=\"a\">United States.</marc:subfield>\n        <marc:subfield code=\"b\">Congress.</marc:subfield>\n        <marc:subfield code=\"b\">Senate.</marc:subfield>\n        <marc:subfield code=\"b\">\n          Committee on Commerce, Science, and Transportation.\n        </marc:subfield>\n        <marc:subfield code=\"b\">\n          Subcommittee on Communications, Technology, Innovation, and the Internet,\n        </marc:subfield>\n        <marc:subfield code=\"e\">author.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"245\" ind1=\"1\" ind2=\"0\">\n        <marc:subfield code=\"a\">Digital decision-making :</marc:subfield>\n        <marc:subfield code=\"b\">\n          the building blocks of machine learning and artificial intelligence : hearing before the Subcommittee on Communications, Technology, Innovation, and the Internet of the Committee on Commerce, Science, and Transportation, United States Senate, One Hundred Fifteenth Congress, first session, December 12, 2017.\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"246\" ind1=\"3\" ind2=\" \">\n        <marc:subfield code=\"a\">Digital decision making</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"264\" ind1=\" \" ind2=\"1\">\n        <marc:subfield code=\"a\">Washington :</marc:subfield>\n        <marc:subfield code=\"b\">U.S. Government Publishing Office,</marc:subfield>\n        <marc:subfield code=\"c\">2019.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"300\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">1 online resource (iv, 107 pages).</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"336\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">text</marc:subfield>\n        <marc:subfield code=\"b\">txt</marc:subfield>\n        <marc:subfield code=\"2\">rdacontent</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"337\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">computer</marc:subfield>\n        <marc:subfield code=\"b\">c</marc:subfield>\n        <marc:subfield code=\"2\">rdamedia</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"338\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">online resource</marc:subfield>\n        <marc:subfield code=\"b\">cr</marc:subfield>\n        <marc:subfield code=\"2\">rdacarrier</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"490\" ind1=\"1\" ind2=\" \">\n        <marc:subfield code=\"a\">S. hrg. ;</marc:subfield>\n        <marc:subfield code=\"v\">115-649</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"588\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          Description based on online resource; title from PDF title screen (govinfo web site, viewed on Sept. 17, 2019).\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"504\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">Includes bibliographical references.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Machine learning.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Artificial intelligence.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Decision making</marc:subfield>\n        <marc:subfield code=\"z\">United States.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"655\" ind1=\" \" ind2=\"7\">\n        <marc:subfield code=\"a\">Legislative hearings.</marc:subfield>\n        <marc:subfield code=\"2\">lcgft</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"776\" ind1=\"0\" ind2=\"8\">\n        <marc:subfield code=\"i\">Print version:</marc:subfield>\n        <marc:subfield code=\"a\">\n          United States. Congress. Senate. Committee on Commerce, Science, and Transportation. Subcommittee on Communications, Technology, Innovation, and the Internet.\n        </marc:subfield>\n        <marc:subfield code=\"t\">Digital decision-making</marc:subfield>\n        <marc:subfield code=\"w\">(OCoLC)1119723518</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"810\" ind1=\"1\" ind2=\" \">\n        <marc:subfield code=\"a\">United States.</marc:subfield>\n        <marc:subfield code=\"b\">Congress.</marc:subfield>\n        <marc:subfield code=\"b\">Senate.</marc:subfield>\n        <marc:subfield code=\"t\">S. hrg. ;</marc:subfield>\n        <marc:subfield code=\"v\">115-649.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\"4\" ind2=\"0\">\n        <marc:subfield code=\"u\">https://purl.fdlp.gov/GPO/gpo125707</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\"4\" ind2=\" \">\n        <marc:subfield code=\"z\">Address at time of PURL creation</marc:subfield>\n        <marc:subfield code=\"u\">\n          https://www.govinfo.gov/content/pkg/CHRG-115shrg37295/pdf/CHRG-115shrg37295.pdf\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"3\">(online)</marc:subfield>\n        <marc:subfield code=\"u\">\n          https://catalog.gpo.gov/fdlpdir/locate.jsp?ItemNumber=1041-C&amp;SYS=001106383\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"994\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">C0</marc:subfield>\n        <marc:subfield code=\"b\">GPO</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"049\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">XZL4</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"955\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">bca29 20190917</marc:subfield>\n        <marc:subfield code=\"b\">20190917</marc:subfield>\n      </marc:datafield>\n</marc:record>\n  </metadata>\n</record>\n"
+         },
+         "provider": {
+            "@id": "http://dp.la/api/contributor/gpo",
+            "name": "United States Government Publishing Office (GPO)"
+         },
+         "sourceResource": {
+            "@id": "http://dp.la/api/items/063502d6a08cdb58e3043e730525938f#SourceResource",
+            "creator": [
+               "United States. Congress. Senate. Committee on Commerce, Science, and Transportation. Subcommittee on Communications, Technology, Innovation, and the Internet, author"
+            ],
+            "date": [
+               {
+                  "displayDate": "2019",
+                  "begin": "2019",
+                  "end": "2019"
+               }
+            ],
+            "description": [
+               "Description based on online resource; title from PDF title screen (govinfo web site, viewed on Sept. 17, 2019).",
+               "Includes bibliographical references."
+            ],
+            "extent": [
+               "1 online resource (iv, 107 pages)."
+            ],
+            "format": [
+               "Language material",
+               "Electronic resource",
+               "Computer",
+               "Online resource"
+            ],
+            "identifier": [
+               "LC call number: KF26",
+               "(OCoLC)1119723443",
+               "1041-C (online)",
+               "Y 4.C 73/7:S.HRG.115-649"
+            ],
+            "publisher": [
+               "Washington : U.S. Government Publishing Office"
+            ],
+            "relation": [
+               "S. hrg. ;. 115-649.",
+               "Print version:. United States. Congress. Senate. Committee on Commerce, Science, and Transportation. Subcommittee on Communications, Technology, Innovation, and the Internet. Digital decision-making. (OCoLC)1119723518."
+            ],
+            "rights": [
+               "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain. For more information please see http://www.gpo.gov/help/index.html#public_domain_copyright_notice.htm"
+            ],
+            "spatial": [
+               {
+                  "name": "United States"
+               }
+            ],
+            "subject": [
+               {
+                  "name": "Machine learning"
+               },
+               {
+                  "name": "Artificial intelligence"
+               },
+               {
+                  "name": "Decision making--United States"
+               }
+            ],
+            "title": [
+               "Digital decision-making : the building blocks of machine learning and artificial intelligence : hearing before the Subcommittee on Communications, Technology, Innovation, and the Internet of the Committee on Commerce, Science, and Transportation, United States Senate, One Hundred Fifteenth Congress, first session, December 12, 2017"
+            ],
+            "type": [
+               "text"
+            ]
+         },
+         "@type": "ore:Aggregation"
+      },
+      {
+         "id": "04ebc85fe932859d732cb832ccba2f49",
+         "@context": "http://dp.la/api/items/context",
+         "@id": "http://dp.la/api/items/04ebc85fe932859d732cb832ccba2f49",
+         "aggregatedCHO": "#sourceResource",
+         "dataProvider": "Florida International University Libraries",
+         "ingestDate": "2020-04-09T17:48:20.138Z",
+         "ingestType": "item",
+         "isShownAt": "https://digitalcommons.fiu.edu/etd/3878",
+         "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+         "originalRecord": {
+            "stringValue": "{\n  \"@context\" : \"http://api.dp.la/items/context\",\n  \"sourceResource\" : {\n    \"contributor\" : [ {\n      \"name\" : \"Peter J. Clarke\"\n    }, {\n      \"name\" : \"Tariq M. King\"\n    }, {\n      \"name\" : \"Leonardo Bobadilla\"\n    }, {\n      \"name\" : \"Monique Ross\"\n    } ],\n    \"creator\" : [ {\n      \"name\" : \"Santiago, Dionny\"\n    } ],\n    \"date\" : {\n      \"begin\" : \"2018-11-09T08:00:00Z\",\n      \"end\" : \"2018-11-09T08:00:00Z\",\n      \"displayDate\" : \"2018-11-09T08:00:00Z\"\n    },\n    \"description\" : [ \"<p>Achieving high software quality today involves manual analysis, test planning, documentation of testing strategy and test cases, and development of automated test scripts to support regression testing. This thesis is motivated by the opportunity to bridge the gap between current test automation and true test automation by investigating learning-based solutions to software testing. We present an approach that combines a trainable web component classifier, a test case description language, and a trainable test generation and execution system that can learn to generate new test cases. Training data was collected and hand-labeled across 7 systems, 95 web pages, and 17,360 elements. A total of 250 test flows were also manually hand-crafted for training purposes. Various machine learning algorithms were evaluated. Results showed that Random Forest classifiers performed well on several web component classification problems. In addition, Long Short-Term Memory neural networks were able to model and generate new valid test flows.</p>\" ],\n    \"identifier\" : \"oai:uofm.library.fiu_etd:oai:digitalcommons.fiu.edu:etd-5192\",\n    \"rights\" : [ {\n      \"@id\" : \"http://rightsstatements.org/vocab/InC/1.0/\"\n    } ],\n    \"subject\" : [ {\n      \"name\" : \"Testing\"\n    }, {\n      \"name\" : \"Automation\"\n    }, {\n      \"name\" : \"Artificial intelligence\"\n    }, {\n      \"name\" : \"Machine learning\"\n    }, {\n      \"name\" : \"Web classification\"\n    }, {\n      \"name\" : \"Test generation\"\n    }, {\n      \"name\" : \"Language\"\n    }, {\n      \"name\" : \"Artificial Intelligence and Robotics\"\n    }, {\n      \"name\" : \"Computer Sciences\"\n    }, {\n      \"name\" : \"Programming Languages and Compilers\"\n    }, {\n      \"name\" : \"Software Engineering\"\n    } ],\n    \"title\" : [ \"A Model-Based AI-Driven Test Generation System\" ]\n  },\n  \"aggregatedCHO\" : \"#sourceResource\",\n  \"dataProvider\" : \"Florida International University Libraries\",\n  \"isShownAt\" : \"https://digitalcommons.fiu.edu/etd/3878\",\n  \"provider\" : {\n    \"name\" : \"Sunshine State Digital Network\",\n    \"@id\" : \"UNDETERMINED\"\n  }\n}"
+         },
+         "provider": {
+            "@id": "http://dp.la/api/contributor/florida",
+            "name": "Sunshine State Digital Network"
+         },
+         "sourceResource": {
+            "@id": "http://dp.la/api/items/04ebc85fe932859d732cb832ccba2f49#SourceResource",
+            "contributor": [
+               "Peter J. Clarke",
+               "Tariq M. King",
+               "Leonardo Bobadilla",
+               "Monique Ross"
+            ],
+            "creator": [
+               "Santiago, Dionny"
+            ],
+            "date": [
+               {
+                  "displayDate": "2018-11-09T08:00:00Z"
+               }
+            ],
+            "description": [
+               "Achieving high software quality today involves manual analysis, test planning, documentation of testing strategy and test cases, and development of automated test scripts to support regression testing. This thesis is motivated by the opportunity to bridge the gap between current test automation and true test automation by investigating learning-based solutions to software testing. We present an approach that combines a trainable web component classifier, a test case description language, and a trainable test generation and execution system that can learn to generate new test cases. Training data was collected and hand-labeled across 7 systems, 95 web pages, and 17,360 elements. A total of 250 test flows were also manually hand-crafted for training purposes. Various machine learning algorithms were evaluated. Results showed that Random Forest classifiers performed well on several web component classification problems. In addition, Long Short-Term Memory neural networks were able to model and generate new valid test flows."
+            ],
+            "identifier": [
+               "oai:uofm.library.fiu_etd:oai:digitalcommons.fiu.edu:etd-5192"
+            ],
+            "subject": [
+               {
+                  "name": "Testing"
+               },
+               {
+                  "name": "Automation"
+               },
+               {
+                  "name": "Artificial intelligence"
+               },
+               {
+                  "name": "Machine learning"
+               },
+               {
+                  "name": "Web classification"
+               },
+               {
+                  "name": "Test generation"
+               },
+               {
+                  "name": "Language"
+               },
+               {
+                  "name": "Artificial Intelligence and Robotics"
+               },
+               {
+                  "name": "Computer Sciences"
+               },
+               {
+                  "name": "Programming Languages and Compilers"
+               },
+               {
+                  "name": "Software Engineering"
+               }
+            ],
+            "title": [
+               "A Model-Based AI-Driven Test Generation System"
+            ]
+         },
+         "@type": "ore:Aggregation"
+      },
+      {
+         "id": "b134a6d974e6c5f6c8c4afe090406c40",
+         "@context": "http://dp.la/api/items/context",
+         "@id": "http://dp.la/api/items/b134a6d974e6c5f6c8c4afe090406c40",
+         "aggregatedCHO": "#sourceResource",
+         "dataProvider": "United States Government Publishing Office (GPO)",
+         "ingestDate": "2020-02-03T16:51:10.618Z",
+         "ingestType": "item",
+         "isShownAt": "http://catalog.gpo.gov/F/?func=direct&doc_number=001109381&format=999",
+         "object": "http://fdlp.gov/images/gpo-tn.jpg",
+         "originalRecord": {
+            "stringValue": "<record \nxmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n  <header>\n    <identifier>oai:catalog.gpo.gov:GPO01-001109381</identifier>\n    <datestamp>2020-01-27T16:09:59Z</datestamp>\n    <setSpec>PURL_ALL</setSpec>\n  </header>\n  <metadata>\n    <marc:record \n    xsi:schemaLocation=\"http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd\" xmlns:marc=\"http://www.loc.gov/MARC21/slim\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n      <marc:leader>00000cam 2200457 i 4500</marc:leader>\n      <marc:controlfield tag=\"001\">001109381</marc:controlfield>\n      <marc:controlfield tag=\"003\">OCoLC</marc:controlfield>\n      <marc:controlfield tag=\"005\">20200127110938.0</marc:controlfield>\n      <marc:controlfield tag=\"006\">m o d f</marc:controlfield>\n      <marc:controlfield tag=\"007\">cr |||||||||||</marc:controlfield>\n      <marc:controlfield tag=\"008\">\n        191106s2019    dcu     ob   f000 0 eng c\n      </marc:controlfield>\n      <marc:datafield tag=\"035\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">(OCoLC)1126541540</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"040\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">GPO</marc:subfield>\n        <marc:subfield code=\"b\">eng</marc:subfield>\n        <marc:subfield code=\"e\">rda</marc:subfield>\n        <marc:subfield code=\"e\">pn</marc:subfield>\n        <marc:subfield code=\"c\">GPO</marc:subfield>\n        <marc:subfield code=\"d\">GPO</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"042\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">pcc</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"043\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">n-us---</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"050\" ind1=\" \" ind2=\"4\">\n        <marc:subfield code=\"a\">KF32</marc:subfield>\n        <marc:subfield code=\"b\">.S39 2019j</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"074\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">1008-I (online)</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"086\" ind1=\"0\" ind2=\" \">\n        <marc:subfield code=\"a\">Y 1.1/8:116-268</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"110\" ind1=\"1\" ind2=\" \">\n        <marc:subfield code=\"a\">United States.</marc:subfield>\n        <marc:subfield code=\"b\">Congress.</marc:subfield>\n        <marc:subfield code=\"b\">House.</marc:subfield>\n        <marc:subfield code=\"b\">\n          Committee on Science, Space, and Technology (2011),\n        </marc:subfield>\n        <marc:subfield code=\"e\">author.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"245\" ind1=\"1\" ind2=\"0\">\n        <marc:subfield code=\"a\">\n          Identifying Outputs of Generative Adversarial Networks Act :\n        </marc:subfield>\n        <marc:subfield code=\"b\">\n          report (to accompany H.R. 4355) (including cost estimate of the Congressional Budget Office).\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"246\" ind1=\"3\" ind2=\"3\">\n        <marc:subfield code=\"a\">IOGAN Act</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"264\" ind1=\" \" ind2=\"1\">\n        <marc:subfield code=\"a\">[Washington, D.C.] :</marc:subfield>\n        <marc:subfield code=\"b\">[U.S. Government Publishing Office],</marc:subfield>\n        <marc:subfield code=\"c\">[2019]</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"300\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">1 online resource (38 pages).</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"336\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">text</marc:subfield>\n        <marc:subfield code=\"b\">txt</marc:subfield>\n        <marc:subfield code=\"2\">rdacontent</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"337\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">computer</marc:subfield>\n        <marc:subfield code=\"b\">c</marc:subfield>\n        <marc:subfield code=\"2\">rdamedia</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"338\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">online resource</marc:subfield>\n        <marc:subfield code=\"b\">cr</marc:subfield>\n        <marc:subfield code=\"2\">rdacarrier</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"490\" ind1=\"1\" ind2=\" \">\n        <marc:subfield code=\"a\">\n          Report / 116th Congress, 1st session, House of Representatives ;\n        </marc:subfield>\n        <marc:subfield code=\"v\">116-268</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"588\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">\n          Description based on online resource; title from PDF caption (Govinfo website, viewed Nov. 6, 2019).\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"500\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">&quot;November 5, 2019.&quot;</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Disinformation</marc:subfield>\n        <marc:subfield code=\"z\">United States.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Common fallacies</marc:subfield>\n        <marc:subfield code=\"z\">United States.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Disclosure of information</marc:subfield>\n        <marc:subfield code=\"x\">Law and legislation</marc:subfield>\n        <marc:subfield code=\"z\">United States.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Machine learning</marc:subfield>\n        <marc:subfield code=\"x\">Technological innovations</marc:subfield>\n        <marc:subfield code=\"z\">United States.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"650\" ind1=\" \" ind2=\"0\">\n        <marc:subfield code=\"a\">Artificial intelligence</marc:subfield>\n        <marc:subfield code=\"x\">Computer programs.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"655\" ind1=\" \" ind2=\"7\">\n        <marc:subfield code=\"a\">Legislative materials.</marc:subfield>\n        <marc:subfield code=\"2\">lcgft</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"776\" ind1=\"0\" ind2=\"8\">\n        <marc:subfield code=\"i\">Print version:</marc:subfield>\n        <marc:subfield code=\"a\">\n          United States. Congress. House. Committee on Science, Space, and Technology (2011).\n        </marc:subfield>\n        <marc:subfield code=\"t\">\n          Identifying Outputs of Generative Adversarial Networks Act\n        </marc:subfield>\n        <marc:subfield code=\"w\">(OCoLC)1128021353</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"810\" ind1=\"1\" ind2=\" \">\n        <marc:subfield code=\"a\">United States.</marc:subfield>\n        <marc:subfield code=\"b\">Congress.</marc:subfield>\n        <marc:subfield code=\"b\">House.</marc:subfield>\n        <marc:subfield code=\"t\">Report ;</marc:subfield>\n        <marc:subfield code=\"v\">116-268.</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\"4\" ind2=\"0\">\n        <marc:subfield code=\"u\">https://purl.fdlp.gov/GPO/gpo128071</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\"4\" ind2=\" \">\n        <marc:subfield code=\"z\">Address at time of PURL creation</marc:subfield>\n        <marc:subfield code=\"u\">\n          https://www.govinfo.gov/content/pkg/CRPT-116hrpt268/pdf/CRPT-116hrpt268.pdf\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"856\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"3\">(online)</marc:subfield>\n        <marc:subfield code=\"u\">\n          https://catalog.gpo.gov/fdlpdir/locate.jsp?ItemNumber=1008-I&amp;SYS=001109381\n        </marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"994\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">C0</marc:subfield>\n        <marc:subfield code=\"b\">GPO</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"049\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">GPOO</marc:subfield>\n      </marc:datafield>\n      <marc:datafield tag=\"955\" ind1=\" \" ind2=\" \">\n        <marc:subfield code=\"a\">bc34 20191106</marc:subfield>\n        <marc:subfield code=\"b\">20191106</marc:subfield>\n      </marc:datafield>\n</marc:record>\n  </metadata>\n</record>\n"
+         },
+         "provider": {
+            "@id": "http://dp.la/api/contributor/gpo",
+            "name": "United States Government Publishing Office (GPO)"
+         },
+         "sourceResource": {
+            "@id": "http://dp.la/api/items/b134a6d974e6c5f6c8c4afe090406c40#SourceResource",
+            "creator": [
+               "United States. Congress. House. Committee on Science, Space, and Technology (2011), author"
+            ],
+            "date": [
+               {
+                  "displayDate": "[2019]"
+               }
+            ],
+            "description": [
+               "Description based on online resource; title from PDF caption (Govinfo website, viewed Nov. 6, 2019).",
+               "\"November 5, 2019.\""
+            ],
+            "extent": [
+               "1 online resource (38 pages)."
+            ],
+            "format": [
+               "Language material",
+               "Electronic resource",
+               "Computer",
+               "Online resource"
+            ],
+            "identifier": [
+               "LC call number: KF32",
+               "(OCoLC)1126541540",
+               "1008-I (online)",
+               "Y 1.1/8:116-268"
+            ],
+            "publisher": [
+               "[Washington, D.C.] : [U.S. Government Publishing Office]"
+            ],
+            "relation": [
+               "Report / 116th Congress, 1st session, House of Representatives ;. 116-268.",
+               "Print version:. United States. Congress. House. Committee on Science, Space, and Technology (2011). Identifying Outputs of Generative Adversarial Networks Act. (OCoLC)1128021353."
+            ],
+            "rights": [
+               "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain. For more information please see http://www.gpo.gov/help/index.html#public_domain_copyright_notice.htm"
+            ],
+            "spatial": [
+               {
+                  "name": "United States"
+               }
+            ],
+            "subject": [
+               {
+                  "name": "Disinformation--United States"
+               },
+               {
+                  "name": "Common fallacies--United States"
+               },
+               {
+                  "name": "Disclosure of information--Law and legislation--United States"
+               },
+               {
+                  "name": "Machine learning--Technological innovations--United States"
+               },
+               {
+                  "name": "Artificial intelligence--Computer programs"
+               }
+            ],
+            "title": [
+               "Identifying Outputs of Generative Adversarial Networks Act : report (to accompany H.R. 4355) (including cost estimate of the Congressional Budget Office)"
+            ],
+            "type": [
+               "text"
+            ]
+         },
+         "@type": "ore:Aggregation"
+      },
+      {
+         "id": "df48b0c59b8d21e8cf1fa295ca6fe40a",
+         "@context": "http://dp.la/api/items/context",
+         "@id": "http://dp.la/api/items/df48b0c59b8d21e8cf1fa295ca6fe40a",
+         "aggregatedCHO": "#sourceResource",
+         "dataProvider": "Florida International University Libraries",
+         "ingestDate": "2020-04-09T17:48:20.138Z",
+         "ingestType": "item",
+         "isShownAt": "https://digitalcommons.fiu.edu/etd/1765",
+         "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+         "originalRecord": {
+            "stringValue": "{\n  \"@context\" : \"http://api.dp.la/items/context\",\n  \"sourceResource\" : {\n    \"contributor\" : [ {\n      \"name\" : \"Christine Lisetti\"\n    }, {\n      \"name\" : \"S. S. Iyengar\"\n    }, {\n      \"name\" : \"Tao Li\"\n    }, {\n      \"name\" : \"Armando Barreto\"\n    }, {\n      \"name\" : \"Ubbo Visser\"\n    } ],\n    \"creator\" : [ {\n      \"name\" : \"Amini, Reza\"\n    } ],\n    \"date\" : {\n      \"begin\" : \"2015-03-25T07:00:00Z\",\n      \"end\" : \"2015-03-25T07:00:00Z\",\n      \"displayDate\" : \"2015-03-25T07:00:00Z\"\n    },\n    \"description\" : [ \"<p>There is a growing societal need to address the increasing prevalence of behavioral health issues, such as obesity, alcohol or drug use, and general lack of treatment adherence for a variety of health problems. The statistics, worldwide and in the USA, are daunting. Excessive alcohol use is the third leading preventable cause of death in the United States (with 79,000 deaths annually), and is responsible for a wide range of health and social problems. On the positive side though, these behavioral health issues (and associated possible diseases) can often be prevented with relatively simple lifestyle changes, such as losing weight with a diet and/or physical exercise, or learning how to reduce alcohol consumption. Medicine has therefore started to move toward finding ways of preventively promoting wellness, rather than solely treating already established illness.</p>\\n<p>Evidence-based patient-centered Brief Motivational Interviewing (BMI) interven- tions have been found particularly effective in helping people find intrinsic motivation to change problem behaviors after short counseling sessions, and to maintain healthy lifestyles over the long-term. Lack of locally available personnel well-trained in BMI, however, often limits access to successful interventions for people in need. To fill this accessibility gap, Computer-Based Interventions (CBIs) have started to emerge.</p>\\n<p>Success of the CBIs, however, critically relies on insuring engagement and retention of CBI users so that they remain motivated to use these systems and come back to use them over the long term as necessary.</p>\\n<p>Because of their text-only interfaces, current CBIs can therefore only express limited empathy and rapport, which are the most important factors of health interventions. Fortunately, in the last decade, computer science research has progressed in the design of simulated human characters with anthropomorphic communicative abilities. Virtual characters interact using humans\u2019 innate communication modalities, such as facial expressions, body language, speech, and natural language understanding. By advancing research in Artificial Intelligence (AI), we can improve the ability of artificial agents to help us solve CBI problems.</p>\\n<p>To facilitate successful communication and social interaction between artificial agents and human partners, it is essential that aspects of human social behavior, especially empathy and rapport, be considered when designing human-computer interfaces. Hence, the goal of the present dissertation is to provide a computational model of rapport to enhance an artificial agent\u2019s social behavior, and to provide an experimental tool for the psychological theories shaping the model. Parts of this thesis were already published in [LYL+12, AYL12, AL13, ALYR13, LAYR13, YALR13, ALY14].</p>\" ],\n    \"identifier\" : \"oai:uofm.library.fiu_etd:oai:digitalcommons.fiu.edu:etd-3016\",\n    \"rights\" : [ {\n      \"@id\" : \"http://rightsstatements.org/vocab/InC/1.0/\"\n    } ],\n    \"subject\" : [ {\n      \"name\" : \"Rapport\"\n    }, {\n      \"name\" : \"Modeling Non-Verbal Behaviors\"\n    }, {\n      \"name\" : \"Intelligent Virtual Agents\"\n    }, {\n      \"name\" : \"Data-Driven Behavior Modeling\"\n    }, {\n      \"name\" : \"Modeling Rapport\"\n    }, {\n      \"name\" : \"Modeling Rapport Using Machine Learning\"\n    }, {\n      \"name\" : \"Modeling Rapport Using Hidden Markov Models\"\n    }, {\n      \"name\" : \"Modeling Non-Verbal Behaviors Using Machine Learning\"\n    }, {\n      \"name\" : \"Modeling Non-Verbal Behaviors Using Hidden Markov Models\"\n    }, {\n      \"name\" : \"Artificial Intelligence and Robotics\"\n    }, {\n      \"name\" : \"Computer Sciences\"\n    }, {\n      \"name\" : \"Graphics and Human Computer Interfaces\"\n    } ],\n    \"title\" : [ \"Learning Data-Driven Models of Non-Verbal Behaviors for Building Rapport Using an Intelligent Virtual Agent\" ]\n  },\n  \"aggregatedCHO\" : \"#sourceResource\",\n  \"dataProvider\" : \"Florida International University Libraries\",\n  \"isShownAt\" : \"https://digitalcommons.fiu.edu/etd/1765\",\n  \"provider\" : {\n    \"name\" : \"Sunshine State Digital Network\",\n    \"@id\" : \"UNDETERMINED\"\n  }\n}"
+         },
+         "provider": {
+            "@id": "http://dp.la/api/contributor/florida",
+            "name": "Sunshine State Digital Network"
+         },
+         "sourceResource": {
+            "@id": "http://dp.la/api/items/df48b0c59b8d21e8cf1fa295ca6fe40a#SourceResource",
+            "contributor": [
+               "Christine Lisetti",
+               "S. S. Iyengar",
+               "Tao Li",
+               "Armando Barreto",
+               "Ubbo Visser"
+            ],
+            "creator": [
+               "Amini, Reza"
+            ],
+            "date": [
+               {
+                  "displayDate": "2015-03-25T07:00:00Z"
+               }
+            ],
+            "description": [
+               "There is a growing societal need to address the increasing prevalence of behavioral health issues, such as obesity, alcohol or drug use, and general lack of treatment adherence for a variety of health problems. The statistics, worldwide and in the USA, are daunting. Excessive alcohol use is the third leading preventable cause of death in the United States (with 79,000 deaths annually), and is responsible for a wide range of health and social problems. On the positive side though, these behavioral health issues (and associated possible diseases) can often be prevented with relatively simple lifestyle changes, such as losing weight with a diet and/or physical exercise, or learning how to reduce alcohol consumption. Medicine has therefore started to move toward finding ways of preventively promoting wellness, rather than solely treating already established illness. Evidence-based patient-centered Brief Motivational Interviewing (BMI) interven- tions have been found particularly effective in helping people find intrinsic motivation to change problem behaviors after short counseling sessions, and to maintain healthy lifestyles over the long-term. Lack of locally available personnel well-trained in BMI, however, often limits access to successful interventions for people in need. To fill this accessibility gap, Computer-Based Interventions (CBIs) have started to emerge. Success of the CBIs, however, critically relies on insuring engagement and retention of CBI users so that they remain motivated to use these systems and come back to use them over the long term as necessary. Because of their text-only interfaces, current CBIs can therefore only express limited empathy and rapport, which are the most important factors of health interventions. Fortunately, in the last decade, computer science research has progressed in the design of simulated human characters with anthropomorphic communicative abilities. Virtual characters interact using humans\u2019 innate communication modalities, such as facial expressions, body language, speech, and natural language understanding. By advancing research in Artificial Intelligence (AI), we can improve the ability of artificial agents to help us solve CBI problems. To facilitate successful communication and social interaction between artificial agents and human partners, it is essential that aspects of human social behavior, especially empathy and rapport, be considered when designing human-computer interfaces. Hence, the goal of the present dissertation is to provide a computational model of rapport to enhance an artificial agent\u2019s social behavior, and to provide an experimental tool for the psychological theories shaping the model. Parts of this thesis were already published in [LYL+12, AYL12, AL13, ALYR13, LAYR13, YALR13, ALY14]."
+            ],
+            "identifier": [
+               "oai:uofm.library.fiu_etd:oai:digitalcommons.fiu.edu:etd-3016"
+            ],
+            "subject": [
+               {
+                  "name": "Rapport"
+               },
+               {
+                  "name": "Modeling Non-Verbal Behaviors"
+               },
+               {
+                  "name": "Intelligent Virtual Agents"
+               },
+               {
+                  "name": "Data-Driven Behavior Modeling"
+               },
+               {
+                  "name": "Modeling Rapport"
+               },
+               {
+                  "name": "Modeling Rapport Using Machine Learning"
+               },
+               {
+                  "name": "Modeling Rapport Using Hidden Markov Models"
+               },
+               {
+                  "name": "Modeling Non-Verbal Behaviors Using Machine Learning"
+               },
+               {
+                  "name": "Modeling Non-Verbal Behaviors Using Hidden Markov Models"
+               },
+               {
+                  "name": "Artificial Intelligence and Robotics"
+               },
+               {
+                  "name": "Computer Sciences"
+               },
+               {
+                  "name": "Graphics and Human Computer Interfaces"
+               }
+            ],
+            "title": [
+               "Learning Data-Driven Models of Non-Verbal Behaviors for Building Rapport Using an Intelligent Virtual Agent"
+            ]
+         },
+         "@type": "ore:Aggregation"
+      },
+      {
+         "id": "8f081f64ca15c84dddfe0f0dffca51e0",
+         "@context": "http://dp.la/api/items/context",
+         "@id": "http://dp.la/api/items/8f081f64ca15c84dddfe0f0dffca51e0",
+         "aggregatedCHO": "#sourceResource",
+         "dataProvider": "The New School Archives and Special Collections",
+         "ingestDate": "2020-02-19T18:54:41.375Z",
+         "ingestType": "item",
+         "intermediateProvider": "Metropolitan New York Library Council",
+         "isShownAt": "http://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2016_mcnes430",
+         "object": "http://digitalarchives.library.newschool.edu/admin/media/kellen/images/2/3/5/21865_ca_object_representations_media_23508_small.jpg",
+         "originalRecord": {
+            "stringValue": "<record \nxmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n  <header>\n    <identifier>\n      oai:repox.ist.utl.pt:newschool:oai:digitalarchives.library.newschool.edu:10640\n    </identifier>\n    <datestamp>2018-11-28</datestamp>\n    <setSpec>newschool</setSpec>\n  </header>\n  <metadata>\n    <mods \n    xsi:schemaLocation=\"http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd\" version=\"3.4\" xmlns=\"http://www.loc.gov/mods/v3\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:oai-pmh=\"http://www.openarchives.org/OAI/2.0/\">\n      <titleInfo>\n        <title>Savage Diction</title>\n      </titleInfo>\n      <name>\n        <namePart>Stephanie McNiel</namePart>\n        <role>\n          <roleTerm>Creator</roleTerm>\n        </role>\n      </name>\n      <originInfo>\n        <dateCreated keyDate=\"yes\">May 11 2016</dateCreated>\n      </originInfo>\n      <note type=\"content\">\n        Our technology plays a crucial role in defining the human landscape. Far from simple tools, the computational systems that exist today are intelligent and globally networked. This affects the narration we construct of ourselves and the world we live in.&amp;nbsp;If language is the process of transmitting information from one mind to another, this transmission is manifested in a complex recursive entanglement of communication transcribed by our media and technology. Savage Diction is a short film narrated by artificial intelligence. It is a curated collection of media artifacts, narrated by an intelligent computational system. This narration is generated by machine learning, a subdomain of artificial intelligence, through the process of object recognition and natural language processing. Different interpretations are algorithmically generated by training the machine learning models on separate databases of textual artifacts and range from released Hilary Clinton emails to a corpus of romance novels. By interjecting these narratives into the film, a visual investigation is created. One that embodies the significance of data used to train intelligent systems, the contextual associations that emerge from the process of intelligent algorithms, and the shifting definition of culture that results when artificial intelligence becomes a key producer of cultural artifacts.\n      </note>\n      <physicalDescription>\n        <internetMediaType>application/pdf</internetMediaType>\n      </physicalDescription>\n      <location>\n        <url access=\"preview\">\n          http://digitalarchives.library.newschool.edu/admin/media/kellen/images/2/3/5/21865_ca_object_representations_media_23508_small.jpg\n        </url>\n      </location>\n      <location>\n        <url usage=\"primary display\" access=\"object in context\">\n          http://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2016_mcnes430\n        </url>\n      </location>\n      <accessCondition>\n        This image is provided for education and research purposes. Rights may be reserved. Responsibility for securing permissions to distribute, publish, reproduce or other use rests with the user.\n      </accessCondition>\n      <relatedItem type=\"host\" displayLabel=\"Collection\">\n        <titleInfo>\n          <title>2016 MFA Design and Technology program theses</title>\n        </titleInfo>\n      </relatedItem>\n      <relatedItem type=\"host\" displayLabel=\"Collection\">\n        <abstract/>\n      </relatedItem>\n      <note type=\"ownership\">The New School Archives and Special Collections</note>\n      <note type=\"regional council\">Metropolitan New York Library Council</note>\n      <typeOfResource>text</typeOfResource>\n</mods>\n  </metadata>\n  <about>\n    <oaiProvenance:provenance \n    xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/provenance http://www.openarchives.org/OAI/2.0/provenance.xsd\" xmlns:oaiProvenance=\"http://www.openarchives.org/OAI/2.0/provenance\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n      <oaiProvenance:originDescription harvestDate=\"2018-11-28\" altered=\"true\">\n        <oaiProvenance:baseURL>\n          http://digitalarchives.library.newschool.edu/admin/service.php/OAI/dc\n        </oaiProvenance:baseURL>\n        <oaiProvenance:identifier>\n          oai:digitalarchives.library.newschool.edu:10640\n        </oaiProvenance:identifier>\n        <oaiProvenance:datestamp>2018-11-28</oaiProvenance:datestamp>\n        <oaiProvenance:metadataNamespace>\n          http://www.openarchives.org/OAI/2.0/\n        </oaiProvenance:metadataNamespace>\n      </oaiProvenance:originDescription>\n</oaiProvenance:provenance>\n  </about>\n</record>\n"
+         },
+         "provider": {
+            "@id": "http://dp.la/api/contributor/esdn",
+            "name": "Empire State Digital Network"
+         },
+         "sourceResource": {
+            "@id": "http://dp.la/api/items/8f081f64ca15c84dddfe0f0dffca51e0#SourceResource",
+            "collection": [
+               {
+                  "title": "2016 MFA Design and Technology program theses"
+               }
+            ],
+            "creator": [
+               "Stephanie McNiel"
+            ],
+            "date": [
+               {
+                  "displayDate": "May 11 2016"
+               }
+            ],
+            "description": [
+               "Our technology plays a crucial role in defining the human landscape. Far from simple tools, the computational systems that exist today are intelligent and globally networked. This affects the narration we construct of ourselves and the world we live in.\u00a0If language is the process of transmitting information from one mind to another, this transmission is manifested in a complex recursive entanglement of communication transcribed by our media and technology. Savage Diction is a short film narrated by artificial intelligence. It is a curated collection of media artifacts, narrated by an intelligent computational system. This narration is generated by machine learning, a subdomain of artificial intelligence, through the process of object recognition and natural language processing. Different interpretations are algorithmically generated by training the machine learning models on separate databases of textual artifacts and range from released Hilary Clinton emails to a corpus of romance novels. By interjecting these narratives into the film, a visual investigation is created. One that embodies the significance of data used to train intelligent systems, the contextual associations that emerge from the process of intelligent algorithms, and the shifting definition of culture that results when artificial intelligence becomes a key producer of cultural artifacts."
+            ],
+            "relation": [
+               "2016 MFA Design and Technology program theses"
+            ],
+            "rights": [
+               "This image is provided for education and research purposes. Rights may be reserved. Responsibility for securing permissions to distribute, publish, reproduce or other use rests with the user."
+            ],
+            "title": [
+               "Savage Diction"
+            ],
+            "type": [
+               "text"
+            ]
+         },
+         "@type": "ore:Aggregation"
+      },
+      {
+         "id": "016b599fb31deec59ab51107b276e769",
+         "@context": "http://dp.la/api/items/context",
+         "@id": "http://dp.la/api/items/016b599fb31deec59ab51107b276e769",
+         "aggregatedCHO": "#sourceResource",
+         "dataProvider": "Colorado State University. Libraries",
+         "ingestDate": "2020-04-06T15:57:41.483Z",
+         "ingestType": "item",
+         "intermediateProvider": "Mountain Scholar",
+         "isShownAt": "https://hdl.handle.net/10217/197404",
+         "object": "https://mountainscholar.org/bitstream/10217/197404/3/Pilkington_colostate_0053A_15633.pdf.jpg",
+         "rights": "http://rightsstatements.org/vocab/CNE/1.0/",
+         "originalRecord": {
+            "stringValue": "<record \nxmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n  <header>\n    <identifier>\n      oai:plains2peaks:Mount_Scholar:oai:mountainscholar.org:10217/197404\n    </identifier>\n    <datestamp>2020-04-06T14:01:53Z</datestamp>\n  </header>\n  <metadata>\n    <mods:mods xmlns:mods=\"http://www.loc.gov/mods/v3\">\n      <mods:note type=\"ownership\">Colorado State University. Libraries</mods:note>\n      <mods:note type=\"admin\">Mountain Scholar</mods:note>\n      <mods:location>\n        <mods:url usage=\"primary display\">\n          https://hdl.handle.net/10217/197404\n        </mods:url>\n      </mods:location>\n      <mods:accessCondition type=\"use and reproduction\">\n        https://rightsstatements.org/page/CNE/1.0/\n      </mods:accessCondition>\n      <mods:titleInfo>\n        <mods:title>\n          Integration of graphical, physics-based, and machine learning methods for assessment of impact and recovery of the built environment from wind hazards\n        </mods:title>\n      </mods:titleInfo>\n      <mods:location>\n        <mods:url access=\"preview\">\n          https://mountainscholar.org/bitstream/10217/197404/3/Pilkington_colostate_0053A_15633.pdf.jpg\n        </mods:url>\n      </mods:location>\n      <mods:originInfo>\n        <mods:dateCreated keyDate=\"yes\">2019</mods:dateCreated>\n      </mods:originInfo>\n      <mods:abstract>\n        2019 Summer. Includes bibliographical references. The interaction between a natural hazard and a community has the potential to result in a natural disaster with substantial socio-economic losses. In order to minimize disaster impacts, researchers have been improving building codes and exploring further concepts of community resilience. Community resilience refers to a community's ability to absorb a hazard (minimize impacts) and &quot;bounce back&quot; afterwards (quick recovery time). Therefore, the two main components in modeling resilience are: the initial impact and subsequent recovery time. With respect to a community's building stock, this entails the building damage state sustained and how long it takes to repair and reoccupy that building. In modeling these concepts, probabilistic and physics-based methods have been the traditional approach. With advancements in artificial intelligence and machine learning, as well as data availability, it may be possible to model impact and recovery differently. Most current methods are highly constrained by their topic area, for example a damage state focuses on structural loading and resistance, while social vulnerability independently focus on certain social demographics. These models currently perform independently and are then aggregated together, but with the complex connectivity available through machine learning, structural and social characteristics may be combined simultaneously in one network model. The popularity of machine learning predictive modeling across multiple different applications has risen due to the benefit of modeling complex networks and perhaps identifying critical variables that were previously unknown, or the mechanism behind how these variables interacted within the predictive problem being modeled. The research presented herein outlines a method of using artificial neural networks to model building damage and recovery times. The incorporation of graph theory to analyze the resulting models also provides insight into the &quot;black box&quot; of artificial intelligence and the interaction of socio-technical parameters within the concept of community resilience. The subsequent neural network models are then verified through hindcasting the 2011 Joplin tornado for individual building damage and the time it took to repair and reoccupy each building. The results of this research show viability for using these methods to model damage, but more research work may be needed to model recovery at the same level of accuracy as damage. It is therefore recommended that artificial neural networks be primarily used for problems where the variables are well known but their interactions are not as easily understood or modeled. The graphical analysis also reveals an importance of social parameters across all points in the resilience process, while the structural components remain mostly important in determining the initial impact. Final importance factors are determined for each of the variables evaluated herein. It is suggested moving forward, that modeling approaches consider integrating how a community interacts with its infrastructure, since the human components are what make a natural hazard a disaster, and tracing artificial neural network connections may provide a starting point for such integration into current traditional modeling approaches.  (Doctor of Philosophy (Ph.D.), Civil and Environmental Engineering, Colorado State University.)\n      </mods:abstract>\n      <mods:subject>\n        <mods:topic>building recovery</mods:topic>\n      </mods:subject>\n      <mods:subject>\n        <mods:topic>graph theory</mods:topic>\n      </mods:subject>\n      <mods:subject>\n        <mods:topic>wind damage</mods:topic>\n      </mods:subject>\n      <mods:subject>\n        <mods:topic>community resilience</mods:topic>\n      </mods:subject>\n      <mods:subject>\n        <mods:topic>artificial neural networks</mods:topic>\n      </mods:subject>\n      <mods:subject>\n        <mods:topic>socio-technical</mods:topic>\n      </mods:subject>\n      <mods:typeOfResource>Text</mods:typeOfResource>\n      <mods:name>\n        <mods:namePart>Pilkington, Stephanie F.</mods:namePart>\n        <mods:role>\n          <mods:roleTerm>creator</mods:roleTerm>\n        </mods:role>\n      </mods:name>\n      <mods:relatedItem type=\"host\">\n        <mods:titleInfo>\n          <mods:title>2000-2019 - CSU Theses and Dissertations</mods:title>\n        </mods:titleInfo>\n      </mods:relatedItem>\n      <mods:language>\n        <mods:languageTerm>eng</mods:languageTerm>\n      </mods:language>\n      <mods:name>\n        <mods:namePart>Mahmoud, Hussam</mods:namePart>\n        <mods:role>\n          <mods:roleTerm type=\"text\">contributor</mods:roleTerm>\n        </mods:role>\n      </mods:name>\n      <mods:name>\n        <mods:namePart>Ellingwood, Bruce</mods:namePart>\n        <mods:role>\n          <mods:roleTerm type=\"text\">contributor</mods:roleTerm>\n        </mods:role>\n      </mods:name>\n      <mods:name>\n        <mods:namePart>van de Lindt, John</mods:namePart>\n        <mods:role>\n          <mods:roleTerm type=\"text\">contributor</mods:roleTerm>\n        </mods:role>\n      </mods:name>\n      <mods:name>\n        <mods:namePart>Zahran, Sammy</mods:namePart>\n        <mods:role>\n          <mods:roleTerm type=\"text\">contributor</mods:roleTerm>\n        </mods:role>\n      </mods:name>\n      <mods:name>\n        <mods:namePart>McAllister, Therese</mods:namePart>\n        <mods:role>\n          <mods:roleTerm type=\"text\">contributor</mods:roleTerm>\n        </mods:role>\n      </mods:name>\n      <mods:name>\n        <mods:namePart>Hamideh, Sara</mods:namePart>\n        <mods:role>\n          <mods:roleTerm type=\"text\">contributor</mods:roleTerm>\n        </mods:role>\n      </mods:name>\n      <mods:physicalDescription>\n        <mods:form>born digital</mods:form>\n      </mods:physicalDescription>\n      <mods:physicalDescription>\n        <mods:form>doctoral dissertations</mods:form>\n      </mods:physicalDescription>\n      <mods:recordInfo>\n        <mods:recordIdentifier>\n          https://hdl.handle.net/10217/197404\n        </mods:recordIdentifier>\n      </mods:recordInfo>\n    </mods:mods>\n  </metadata>\n</record>\n"
+         },
+         "provider": {
+            "@id": "http://dp.la/api/contributor/p2p",
+            "name": "Plains to Peaks Collective"
+         },
+         "sourceResource": {
+            "@id": "http://dp.la/api/items/016b599fb31deec59ab51107b276e769#SourceResource",
+            "collection": [
+               {
+                  "title": "2000-2019 - CSU Theses and Dissertations"
+               }
+            ],
+            "contributor": [
+               "Mahmoud, Hussam",
+               "Ellingwood, Bruce",
+               "van de Lindt, John",
+               "Zahran, Sammy",
+               "McAllister, Therese",
+               "Hamideh, Sara"
+            ],
+            "creator": [
+               "Pilkington, Stephanie F"
+            ],
+            "date": [
+               {
+                  "displayDate": "2019",
+                  "begin": "2019",
+                  "end": "2019"
+               }
+            ],
+            "description": [
+               "2019 Summer. Includes bibliographical references. The interaction between a natural hazard and a community has the potential to result in a natural disaster with substantial socio-economic losses. In order to minimize disaster impacts, researchers have been improving building codes and exploring further concepts of community resilience. Community resilience refers to a community's ability to absorb a hazard (minimize impacts) and \"bounce back\" afterwards (quick recovery time). Therefore, the two main components in modeling resilience are: the initial impact and subsequent recovery time. With respect to a community's building stock, this entails the building damage state sustained and how long it takes to repair and reoccupy that building. In modeling these concepts, probabilistic and physics-based methods have been the traditional approach. With advancements in artificial intelligence and machine learning, as well as data availability, it may be possible to model impact and recovery differently. Most current methods are highly constrained by their topic area, for example a damage state focuses on structural loading and resistance, while social vulnerability independently focus on certain social demographics. These models currently perform independently and are then aggregated together, but with the complex connectivity available through machine learning, structural and social characteristics may be combined simultaneously in one network model. The popularity of machine learning predictive modeling across multiple different applications has risen due to the benefit of modeling complex networks and perhaps identifying critical variables that were previously unknown, or the mechanism behind how these variables interacted within the predictive problem being modeled. The research presented herein outlines a method of using artificial neural networks to model building damage and recovery times. The incorporation of graph theory to analyze the resulting models also provides insight into the \"black box\" of artificial intelligence and the interaction of socio-technical parameters within the concept of community resilience. The subsequent neural network models are then verified through hindcasting the 2011 Joplin tornado for individual building damage and the time it took to repair and reoccupy each building. The results of this research show viability for using these methods to model damage, but more research work may be needed to model recovery at the same level of accuracy as damage. It is therefore recommended that artificial neural networks be primarily used for problems where the variables are well known but their interactions are not as easily understood or modeled. The graphical analysis also reveals an importance of social parameters across all points in the resilience process, while the structural components remain mostly important in determining the initial impact. Final importance factors are determined for each of the variables evaluated herein. It is suggested moving forward, that modeling approaches consider integrating how a community interacts with its infrastructure, since the human components are what make a natural hazard a disaster, and tracing artificial neural network connections may provide a starting point for such integration into current traditional modeling approaches. (Doctor of Philosophy (Ph.D.), Civil and Environmental Engineering, Colorado State University.)"
+            ],
+            "format": [
+               "Doctoral dissertations"
+            ],
+            "identifier": [
+               "https://hdl.handle.net/10217/197404"
+            ],
+            "language": [
+               {
+                  "name": "English",
+                  "iso639_3": "English"
+               }
+            ],
+            "subject": [
+               {
+                  "name": "Building recovery"
+               },
+               {
+                  "name": "Graph theory"
+               },
+               {
+                  "name": "Wind damage"
+               },
+               {
+                  "name": "Community resilience"
+               },
+               {
+                  "name": "Artificial neural networks"
+               },
+               {
+                  "name": "Socio-technical"
+               }
+            ],
+            "title": [
+               "Integration of graphical, physics-based, and machine learning methods for assessment of impact and recovery of the built environment from wind hazards"
+            ],
+            "type": [
+               "text"
+            ]
+         },
+         "@type": "ore:Aggregation"
+      },
+      {
+         "id": "4709ab6aab6648317ebbcc77d4665bfa",
+         "@context": "http://dp.la/api/items/context",
+         "@id": "http://dp.la/api/items/4709ab6aab6648317ebbcc77d4665bfa",
+         "aggregatedCHO": "#sourceResource",
+         "dataProvider": "The New School Archives and Special Collections",
+         "ingestDate": "2020-02-19T18:54:41.375Z",
+         "ingestType": "item",
+         "intermediateProvider": "Metropolitan New York Library Council",
+         "isShownAt": "http://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2015_faras385",
+         "object": "http://digitalarchives.library.newschool.edu/admin/media/kellen/images/8/9/26065_ca_object_representations_media_8959_small.jpg",
+         "originalRecord": {
+            "stringValue": "<record \nxmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n  <header>\n    <identifier>\n      oai:repox.ist.utl.pt:newschool:oai:digitalarchives.library.newschool.edu:9674\n    </identifier>\n    <datestamp>2018-11-28</datestamp>\n    <setSpec>newschool</setSpec>\n  </header>\n  <metadata>\n    <mods \n    xsi:schemaLocation=\"http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd\" version=\"3.4\" xmlns=\"http://www.loc.gov/mods/v3\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:oai-pmh=\"http://www.openarchives.org/OAI/2.0/\">\n      <titleInfo>\n        <title>Amara</title>\n      </titleInfo>\n      <name>\n        <namePart>Stephanie Farah</namePart>\n        <role>\n          <roleTerm>Creator</roleTerm>\n        </role>\n      </name>\n      <originInfo>\n        <dateCreated keyDate=\"yes\">May 11 2015</dateCreated>\n      </originInfo>\n      <note type=\"content\">\n        Designer's statement: The Amara reimagines the scope of relationships between humanity and its technological creations. What are the implications of wearing nonhuman technology on your body? This question relates to the urgency of biological crisis. As humans, we are inextricably linked to the destruction of our environment and the danger of annihilating our own species. With developments like artificial intelligence, the uncanny valley, and deep machine learning, we face moral dilemmas so cataclysmic that traditional design practices can offer us little in the way of preparation. This project explores design through the lens of dark optimism and object oriented ontology. Within the context of the human body and technologies that augment its function, the Amara presents a new paradigm of human / non-human interaction. One that strengthens my notion that accepting that our world exists for purposes beyond human pursuits is vital to our own survival.\n      </note>\n      <physicalDescription>\n        <internetMediaType>image/jpeg</internetMediaType>\n      </physicalDescription>\n      <location>\n        <url access=\"preview\">\n          http://digitalarchives.library.newschool.edu/admin/media/kellen/images/8/9/26065_ca_object_representations_media_8959_small.jpg\n        </url>\n      </location>\n      <location>\n        <url usage=\"primary display\" access=\"object in context\">\n          http://digitalarchives.library.newschool.edu/index.php/Detail/objects/PC020402_2015_faras385\n        </url>\n      </location>\n      <accessCondition>\n        This image is provided for education and research purposes. Rights may be reserved. Responsibility for securing permissions to distribute, publish, reproduce or other use rests with the user.\n      </accessCondition>\n      <relatedItem type=\"host\" displayLabel=\"Collection\">\n        <titleInfo>\n          <title>2015 MFA Design and Technology program theses</title>\n        </titleInfo>\n      </relatedItem>\n      <relatedItem type=\"host\" displayLabel=\"Collection\">\n        <abstract/>\n      </relatedItem>\n      <note type=\"ownership\">The New School Archives and Special Collections</note>\n      <note type=\"regional council\">Metropolitan New York Library Council</note>\n      <typeOfResource>still image</typeOfResource>\n</mods>\n  </metadata>\n  <about>\n    <oaiProvenance:provenance \n    xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/provenance http://www.openarchives.org/OAI/2.0/provenance.xsd\" xmlns:oaiProvenance=\"http://www.openarchives.org/OAI/2.0/provenance\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n      <oaiProvenance:originDescription harvestDate=\"2018-11-28\" altered=\"true\">\n        <oaiProvenance:baseURL>\n          http://digitalarchives.library.newschool.edu/admin/service.php/OAI/dc\n        </oaiProvenance:baseURL>\n        <oaiProvenance:identifier>\n          oai:digitalarchives.library.newschool.edu:9674\n        </oaiProvenance:identifier>\n        <oaiProvenance:datestamp>2018-11-28</oaiProvenance:datestamp>\n        <oaiProvenance:metadataNamespace>\n          http://www.openarchives.org/OAI/2.0/\n        </oaiProvenance:metadataNamespace>\n      </oaiProvenance:originDescription>\n</oaiProvenance:provenance>\n  </about>\n</record>\n"
+         },
+         "provider": {
+            "@id": "http://dp.la/api/contributor/esdn",
+            "name": "Empire State Digital Network"
+         },
+         "sourceResource": {
+            "@id": "http://dp.la/api/items/4709ab6aab6648317ebbcc77d4665bfa#SourceResource",
+            "collection": [
+               {
+                  "title": "2015 MFA Design and Technology program theses"
+               }
+            ],
+            "creator": [
+               "Stephanie Farah"
+            ],
+            "date": [
+               {
+                  "displayDate": "May 11 2015"
+               }
+            ],
+            "description": [
+               "Designer's statement: The Amara reimagines the scope of relationships between humanity and its technological creations. What are the implications of wearing nonhuman technology on your body? This question relates to the urgency of biological crisis. As humans, we are inextricably linked to the destruction of our environment and the danger of annihilating our own species. With developments like artificial intelligence, the uncanny valley, and deep machine learning, we face moral dilemmas so cataclysmic that traditional design practices can offer us little in the way of preparation. This project explores design through the lens of dark optimism and object oriented ontology. Within the context of the human body and technologies that augment its function, the Amara presents a new paradigm of human / non-human interaction. One that strengthens my notion that accepting that our world exists for purposes beyond human pursuits is vital to our own survival."
+            ],
+            "relation": [
+               "2015 MFA Design and Technology program theses"
+            ],
+            "rights": [
+               "This image is provided for education and research purposes. Rights may be reserved. Responsibility for securing permissions to distribute, publish, reproduce or other use rests with the user."
+            ],
+            "title": [
+               "Amara"
+            ],
+            "type": [
+               "image"
+            ]
+         },
+         "@type": "ore:Aggregation"
+      },
+      {
+         "id": "eefeeaef987ed783d7ffcd3a4a062c18",
+         "@context": "http://dp.la/api/items/context",
+         "@id": "http://dp.la/api/items/eefeeaef987ed783d7ffcd3a4a062c18",
+         "aggregatedCHO": "#sourceResource",
+         "dataProvider": "Colorado State University. Libraries",
+         "ingestDate": "2020-04-06T15:57:41.483Z",
+         "ingestType": "item",
+         "intermediateProvider": "Mountain Scholar",
+         "isShownAt": "http://hdl.handle.net/10217/49858",
+         "object": "https://mountainscholar.org/bitstream/10217/49858/5/Rieker_colostate_0053A_10338.pdf.jpg",
+         "rights": "http://rightsstatements.org/vocab/CNE/1.0/",
+         "originalRecord": {
+            "stringValue": "<record \nxmlns=\"http://www.openarchives.org/OAI/2.0/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\n  <header>\n    <identifier>\n      oai:plains2peaks:Mount_Scholar:oai:mountainscholar.org:10217/49858\n    </identifier>\n    <datestamp>2020-04-06T14:01:14Z</datestamp>\n  </header>\n  <metadata>\n    <mods:mods xmlns:mods=\"http://www.loc.gov/mods/v3\">\n      <mods:note type=\"ownership\">Colorado State University. Libraries</mods:note>\n      <mods:note type=\"admin\">Mountain Scholar</mods:note>\n      <mods:location>\n        <mods:url usage=\"primary display\">http://hdl.handle.net/10217/49858</mods:url>\n      </mods:location>\n      <mods:accessCondition type=\"use and reproduction\">\n        https://rightsstatements.org/page/CNE/1.0/\n      </mods:accessCondition>\n      <mods:titleInfo>\n        <mods:title>\n          Optimal reservoir operations for riverine water quality improvement: a reinforcement learning strategy\n        </mods:title>\n      </mods:titleInfo>\n      <mods:location>\n        <mods:url access=\"preview\">\n          https://mountainscholar.org/bitstream/10217/49858/5/Rieker_colostate_0053A_10338.pdf.jpg\n        </mods:url>\n      </mods:location>\n      <mods:originInfo>\n        <mods:dateCreated keyDate=\"yes\">2011</mods:dateCreated>\n      </mods:originInfo>\n      <mods:abstract>\n        2011 Spring. Includes bibliographical references. Complex water resources systems often involve a wide variety of competing objectives and purposes, including the improvement of water quality downstream of reservoirs. An increased focus on downstream water quality considerations in the operating strategies for reservoirs has given impetus to the need for tools to assist water resource managers in developing strategies for release of water for downstream water quality improvement, while considering other important project purposes. This study applies an artificial intelligence methodology known as reinforcement learning to the operation of reservoir systems for water quality enhancement through augmentation of instream flow. Reinforcement learning is a methodology that employs the concepts of agent control and evaluative feedback to develop improved reservoir operating strategies through direct interaction with a simulated river and reservoir environment driven by stochastic hydrology. Reinforcement learning methods have advantages over other more traditional stochastic optimization methods through implicit learning of the underlying stochastic structure through interaction with the simulated environment, rather than requiring a priori specification of probabilistic models. Reinforcement learning can also be coupled with various computing efficiency techniques as well as other machine learning methods such as artificial neural networks to mitigate the &quot;curse of dimensionality&quot; that is common to many optimization methodologies for solving sequential decision problems. A generalized mechanism is developed, tested, and evaluated for providing near-real time operational support to suggest releases of water from upstream reservoirs to improve water quality within a river using releases specifically designated for that purpose. The algorithm is designed to address a variable number of water quality constituents, with additional flexibility for adding new water quality requirements and learning updated operating strategies in a non-stationary environment. The generalized reinforcement learning algorithm is applied to the Truckee River in California and Nevada as a case study, where the federal and local governments are purchasing water rights for the purpose of augmenting Truckee River flows to improve water quality. Water associated with those acquired rights can be stored in upstream reservoirs on the Truckee River until needed for prevention of water quality standard violations in the lower reaches of the river. This study shows that in order for the water acquired for flow augmentation to be fully utilized as a part of a longer-term strategy for water quality management, increased flexibility is required as to how those waters are stored and how well the storage is protected from displacement through reservoir spill during times of high runoff. The results show that with those flexibilities, the reinforcement learning mechanism has the ability to produce both short-term and long-term strategies for the use of the water, with the long-term strategies capable of significantly improving water quality during times of drought over current and historic operating practices. The study also evaluates a number of variations and options for the application of reinforcement learning methods, as well as use of artificial neural networks for function generalization and approximation.  (Doctor of Philosophy (Ph.D.), Civil and Environmental Engineering, Colorado State University.)\n      </mods:abstract>\n      <mods:subject>\n        <mods:topic>reinforcement learning</mods:topic>\n      </mods:subject>\n      <mods:subject>\n        <mods:topic>truckee</mods:topic>\n      </mods:subject>\n      <mods:subject>\n        <mods:topic>reservoir operations</mods:topic>\n      </mods:subject>\n      <mods:subject>\n        <mods:topic>artificial intelligence</mods:topic>\n      </mods:subject>\n      <mods:subject>\n        <mods:topic>optimization</mods:topic>\n      </mods:subject>\n      <mods:subject>\n        <mods:topic>water quality</mods:topic>\n      </mods:subject>\n      <mods:typeOfResource>Text</mods:typeOfResource>\n      <mods:name>\n        <mods:namePart>Rieker, Jeffrey Donald</mods:namePart>\n        <mods:role>\n          <mods:roleTerm>creator</mods:roleTerm>\n        </mods:role>\n      </mods:name>\n      <mods:relatedItem type=\"host\">\n        <mods:titleInfo>\n          <mods:title>2000-2019 - CSU Theses and Dissertations</mods:title>\n        </mods:titleInfo>\n      </mods:relatedItem>\n      <mods:language>\n        <mods:languageTerm>eng</mods:languageTerm>\n      </mods:language>\n      <mods:name>\n        <mods:namePart>Labadie, John W.</mods:namePart>\n        <mods:role>\n          <mods:roleTerm type=\"text\">contributor</mods:roleTerm>\n        </mods:role>\n      </mods:name>\n      <mods:name>\n        <mods:namePart>Fontane, Darrell G.</mods:namePart>\n        <mods:role>\n          <mods:roleTerm type=\"text\">contributor</mods:roleTerm>\n        </mods:role>\n      </mods:name>\n      <mods:name>\n        <mods:namePart>Frevert, Donald K.</mods:namePart>\n        <mods:role>\n          <mods:roleTerm type=\"text\">contributor</mods:roleTerm>\n        </mods:role>\n      </mods:name>\n      <mods:name>\n        <mods:namePart>Anderson, Charles W.</mods:namePart>\n        <mods:role>\n          <mods:roleTerm type=\"text\">contributor</mods:roleTerm>\n        </mods:role>\n      </mods:name>\n      <mods:physicalDescription>\n        <mods:form>born digital</mods:form>\n      </mods:physicalDescription>\n      <mods:physicalDescription>\n        <mods:form>doctoral dissertations</mods:form>\n      </mods:physicalDescription>\n      <mods:recordInfo>\n        <mods:recordIdentifier>\n          http://hdl.handle.net/10217/49858\n        </mods:recordIdentifier>\n      </mods:recordInfo>\n    </mods:mods>\n  </metadata>\n</record>\n"
+         },
+         "provider": {
+            "@id": "http://dp.la/api/contributor/p2p",
+            "name": "Plains to Peaks Collective"
+         },
+         "sourceResource": {
+            "@id": "http://dp.la/api/items/eefeeaef987ed783d7ffcd3a4a062c18#SourceResource",
+            "collection": [
+               {
+                  "title": "2000-2019 - CSU Theses and Dissertations"
+               }
+            ],
+            "contributor": [
+               "Labadie, John W",
+               "Fontane, Darrell G",
+               "Frevert, Donald K",
+               "Anderson, Charles W"
+            ],
+            "creator": [
+               "Rieker, Jeffrey Donald"
+            ],
+            "date": [
+               {
+                  "displayDate": "2011",
+                  "begin": "2011",
+                  "end": "2011"
+               }
+            ],
+            "description": [
+               "2011 Spring. Includes bibliographical references. Complex water resources systems often involve a wide variety of competing objectives and purposes, including the improvement of water quality downstream of reservoirs. An increased focus on downstream water quality considerations in the operating strategies for reservoirs has given impetus to the need for tools to assist water resource managers in developing strategies for release of water for downstream water quality improvement, while considering other important project purposes. This study applies an artificial intelligence methodology known as reinforcement learning to the operation of reservoir systems for water quality enhancement through augmentation of instream flow. Reinforcement learning is a methodology that employs the concepts of agent control and evaluative feedback to develop improved reservoir operating strategies through direct interaction with a simulated river and reservoir environment driven by stochastic hydrology. Reinforcement learning methods have advantages over other more traditional stochastic optimization methods through implicit learning of the underlying stochastic structure through interaction with the simulated environment, rather than requiring a priori specification of probabilistic models. Reinforcement learning can also be coupled with various computing efficiency techniques as well as other machine learning methods such as artificial neural networks to mitigate the \"curse of dimensionality\" that is common to many optimization methodologies for solving sequential decision problems. A generalized mechanism is developed, tested, and evaluated for providing near-real time operational support to suggest releases of water from upstream reservoirs to improve water quality within a river using releases specifically designated for that purpose. The algorithm is designed to address a variable number of water quality constituents, with additional flexibility for adding new water quality requirements and learning updated operating strategies in a non-stationary environment. The generalized reinforcement learning algorithm is applied to the Truckee River in California and Nevada as a case study, where the federal and local governments are purchasing water rights for the purpose of augmenting Truckee River flows to improve water quality. Water associated with those acquired rights can be stored in upstream reservoirs on the Truckee River until needed for prevention of water quality standard violations in the lower reaches of the river. This study shows that in order for the water acquired for flow augmentation to be fully utilized as a part of a longer-term strategy for water quality management, increased flexibility is required as to how those waters are stored and how well the storage is protected from displacement through reservoir spill during times of high runoff. The results show that with those flexibilities, the reinforcement learning mechanism has the ability to produce both short-term and long-term strategies for the use of the water, with the long-term strategies capable of significantly improving water quality during times of drought over current and historic operating practices. The study also evaluates a number of variations and options for the application of reinforcement learning methods, as well as use of artificial neural networks for function generalization and approximation. (Doctor of Philosophy (Ph.D.), Civil and Environmental Engineering, Colorado State University.)"
+            ],
+            "format": [
+               "Doctoral dissertations"
+            ],
+            "identifier": [
+               "http://hdl.handle.net/10217/49858"
+            ],
+            "language": [
+               {
+                  "name": "English",
+                  "iso639_3": "English"
+               }
+            ],
+            "subject": [
+               {
+                  "name": "Reinforcement learning"
+               },
+               {
+                  "name": "Truckee"
+               },
+               {
+                  "name": "Reservoir operations"
+               },
+               {
+                  "name": "Artificial intelligence"
+               },
+               {
+                  "name": "Optimization"
+               },
+               {
+                  "name": "Water quality"
+               }
+            ],
+            "title": [
+               "Optimal reservoir operations for riverine water quality improvement: a reinforcement learning strategy"
+            ],
+            "type": [
+               "text"
+            ]
+         },
+         "@type": "ore:Aggregation"
+      },
+      {
+         "id": "e1f10b7b870f69123219ea309a15acec",
+         "@context": "http://dp.la/api/items/context",
+         "@id": "http://dp.la/api/items/e1f10b7b870f69123219ea309a15acec",
+         "aggregatedCHO": "#sourceResource",
+         "dataProvider": "Florida International University Libraries",
+         "ingestDate": "2020-04-09T17:48:20.138Z",
+         "ingestType": "item",
+         "isShownAt": "https://digitalcommons.fiu.edu/etd/3883",
+         "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+         "originalRecord": {
+            "stringValue": "{\n  \"@context\" : \"http://api.dp.la/items/context\",\n  \"sourceResource\" : {\n    \"contributor\" : [ {\n      \"name\" : \"Sundaraja Sitharama Iyengar\"\n    }, {\n      \"name\" : \"Shu-Ching Chen\"\n    }, {\n      \"name\" : \"Mark Alan Finlayson\"\n    }, {\n      \"name\" : \"Ning Xie\"\n    }, {\n      \"name\" : \"Debra VanderMeer\"\n    } ],\n    \"creator\" : [ {\n      \"name\" : \"Wang, Qing\"\n    } ],\n    \"date\" : {\n      \"begin\" : \"2018-11-07T08:00:00Z\",\n      \"end\" : \"2018-11-07T08:00:00Z\",\n      \"displayDate\" : \"2018-11-07T08:00:00Z\"\n    },\n    \"description\" : [ \"<p>Today, as more and more industries are involved in the artificial intelligence era, all business enterprises constantly explore innovative ways to expand their outreach and fulfill the high requirements from customers, with the purpose of gaining a competitive advantage in the marketplace. However, the success of a business highly relies on its IT service. Value-creating activities of a business cannot be accomplished without solid and continuous delivery of IT services especially in the increasingly intricate and specialized world. Driven by both the growing complexity of IT environments and rapidly changing business needs, service providers are urgently seeking intelligent data mining and machine learning techniques to build a cognitive ``brain\\\" in IT service management, capable of automatically understanding, reasoning and learning from operational data collected from human engineers and virtual engineers during the IT service maintenance.</p>\\n<p>The ultimate goal of IT service management optimization is to maximize the automation of IT routine procedures such as problem detection, determination, and resolution. However, to fully automate the entire IT routine procedure is still a challenging task without any human intervention. In the real IT system, both the step-wise resolution descriptions and scripted resolutions are often logged with their corresponding problematic incidents, which typically contain abundant valuable human domain knowledge. Hence, modeling, gathering and utilizing the domain knowledge from IT system maintenance logs act as an extremely crucial role in IT service management optimization. To optimize the IT service management from the perspective of intelligent data mining techniques, three research directions are identified and considered to be greatly helpful for automatic service management: (1) efficiently extract and organize the domain knowledge from IT system maintenance logs\", \"(2) online collect and update the existing domain knowledge by interactively recommending the possible resolutions\", \"(3) automatically discover the latent relation among scripted resolutions and intelligently suggest proper scripted resolutions for IT problems.</p>\\n<p>My dissertation addresses these challenges mentioned above by designing and implementing a set of intelligent data-driven solutions including (1) constructing the domain knowledge base for problem resolution inference\", \"(2) online recommending resolution in light of the explicit hierarchical resolution categories provided by domain experts\", \"and (3) interactively recommending resolution with the latent resolution relations learned through a collaborative filtering model.</p>\" ],\n    \"identifier\" : \"oai:uofm.library.fiu_etd:oai:digitalcommons.fiu.edu:etd-5181\",\n    \"rights\" : [ {\n      \"@id\" : \"http://rightsstatements.org/vocab/InC/1.0/\"\n    } ],\n    \"subject\" : [ {\n      \"name\" : \"Artificail Intelligent\"\n    }, {\n      \"name\" : \"Automatic Service Management\"\n    }, {\n      \"name\" : \"Knowledge Base\"\n    }, {\n      \"name\" : \"Multi-armed Bandit Model\"\n    }, {\n      \"name\" : \"Computer Engineering\"\n    } ],\n    \"title\" : [ \"Intelligent Data Mining Techniques for Automatic Service Management\" ]\n  },\n  \"aggregatedCHO\" : \"#sourceResource\",\n  \"dataProvider\" : \"Florida International University Libraries\",\n  \"isShownAt\" : \"https://digitalcommons.fiu.edu/etd/3883\",\n  \"provider\" : {\n    \"name\" : \"Sunshine State Digital Network\",\n    \"@id\" : \"UNDETERMINED\"\n  }\n}"
+         },
+         "provider": {
+            "@id": "http://dp.la/api/contributor/florida",
+            "name": "Sunshine State Digital Network"
+         },
+         "sourceResource": {
+            "@id": "http://dp.la/api/items/e1f10b7b870f69123219ea309a15acec#SourceResource",
+            "contributor": [
+               "Sundaraja Sitharama Iyengar",
+               "Shu-Ching Chen",
+               "Mark Alan Finlayson",
+               "Ning Xie",
+               "Debra VanderMeer"
+            ],
+            "creator": [
+               "Wang, Qing"
+            ],
+            "date": [
+               {
+                  "displayDate": "2018-11-07T08:00:00Z"
+               }
+            ],
+            "description": [
+               "Today, as more and more industries are involved in the artificial intelligence era, all business enterprises constantly explore innovative ways to expand their outreach and fulfill the high requirements from customers, with the purpose of gaining a competitive advantage in the marketplace. However, the success of a business highly relies on its IT service. Value-creating activities of a business cannot be accomplished without solid and continuous delivery of IT services especially in the increasingly intricate and specialized world. Driven by both the growing complexity of IT environments and rapidly changing business needs, service providers are urgently seeking intelligent data mining and machine learning techniques to build a cognitive ``brain\" in IT service management, capable of automatically understanding, reasoning and learning from operational data collected from human engineers and virtual engineers during the IT service maintenance. The ultimate goal of IT service management optimization is to maximize the automation of IT routine procedures such as problem detection, determination, and resolution. However, to fully automate the entire IT routine procedure is still a challenging task without any human intervention. In the real IT system, both the step-wise resolution descriptions and scripted resolutions are often logged with their corresponding problematic incidents, which typically contain abundant valuable human domain knowledge. Hence, modeling, gathering and utilizing the domain knowledge from IT system maintenance logs act as an extremely crucial role in IT service management optimization. To optimize the IT service management from the perspective of intelligent data mining techniques, three research directions are identified and considered to be greatly helpful for automatic service management: (1) efficiently extract and organize the domain knowledge from IT system maintenance logs",
+               "(2) online collect and update the existing domain knowledge by interactively recommending the possible resolutions",
+               "(3) automatically discover the latent relation among scripted resolutions and intelligently suggest proper scripted resolutions for IT problems. My dissertation addresses these challenges mentioned above by designing and implementing a set of intelligent data-driven solutions including (1) constructing the domain knowledge base for problem resolution inference",
+               "(2) online recommending resolution in light of the explicit hierarchical resolution categories provided by domain experts",
+               "and (3) interactively recommending resolution with the latent resolution relations learned through a collaborative filtering model."
+            ],
+            "identifier": [
+               "oai:uofm.library.fiu_etd:oai:digitalcommons.fiu.edu:etd-5181"
+            ],
+            "subject": [
+               {
+                  "name": "Artificail Intelligent"
+               },
+               {
+                  "name": "Automatic Service Management"
+               },
+               {
+                  "name": "Knowledge Base"
+               },
+               {
+                  "name": "Multi-armed Bandit Model"
+               },
+               {
+                  "name": "Computer Engineering"
+               }
+            ],
+            "title": [
+               "Intelligent Data Mining Techniques for Automatic Service Management"
+            ]
+         },
+         "@type": "ore:Aggregation"
+      },
+      {
+         "id": "c843dc50f3bf2c42e8fe836581618413",
+         "@context": "http://dp.la/api/items/context",
+         "@id": "http://dp.la/api/items/c843dc50f3bf2c42e8fe836581618413",
+         "aggregatedCHO": "#sourceResource",
+         "dataProvider": "Florida International University Libraries",
+         "ingestDate": "2020-04-09T17:48:20.138Z",
+         "ingestType": "item",
+         "isShownAt": "https://digitalcommons.fiu.edu/etd/3912",
+         "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+         "originalRecord": {
+            "stringValue": "{\n  \"@context\" : \"http://api.dp.la/items/context\",\n  \"sourceResource\" : {\n    \"contributor\" : [ {\n      \"name\" : \"Mark Finlayson\"\n    }, {\n      \"name\" : \"Bogdan Carbunar\"\n    }, {\n      \"name\" : \"Shu-Ching Chen\"\n    }, {\n      \"name\" : \"Anthony Dick\"\n    }, {\n      \"name\" : \"Zhiming Zhao\"\n    } ],\n    \"creator\" : [ {\n      \"name\" : \"Eisenberg, Joshua Daniel\"\n    } ],\n    \"date\" : {\n      \"begin\" : \"2018-11-02T07:00:00Z\",\n      \"end\" : \"2018-11-02T07:00:00Z\",\n      \"displayDate\" : \"2018-11-02T07:00:00Z\"\n    },\n    \"description\" : [ \"<p>Automatic understanding of stories is a long-time goal of artificial intelligence and natural language processing research communities. Stories literally explain the human experience. Understanding our stories promotes the understanding of both individuals and groups of people\", \"various cultures, societies, families, organizations, governments, and corporations, to name a few. People use stories to share information. Stories are told \u2013by narrators\u2013 in linguistic bundles of words called <em>narratives</em>.<em> </em></p>\\n<p>My work has given computers awareness of narrative structure. Specifically, where are the boundaries of a narrative in a text. This is the task of determining where a narrative begins and ends, a non-trivial task, because people rarely tell one story at a time. People don\u2019t specifically announce when we are starting or stopping our stories: We interrupt each other. We tell stories within stories. Before my work, computers had no awareness of narrative boundaries, essentially where stories begin and end. My programs can extract narrative boundaries from novels and short stories with an F<sub>1</sub> of 0.65.</p>\\n<p>Before this I worked on teaching computers to identify which paragraphs of text have story content, with an F<sub>1</sub> of 0.75 (which is state of the art). Additionally, I have taught computers to identify the narrative point of view (POV\", \"how the narrator identifies themselves) and diegesis (how involved in the story\u2019s action is the narrator) with F<sub>1 </sub>of over 0.90 for both narrative characteristics. For the narrative POV, diegesis, and narrative level extractors I ran annotation studies, with high agreement, that allowed me to teach computational models to identify structural elements of narrative through supervised machine learning.</p>\\n<p>My work has given computers the ability to find where stories begin and end in raw text. This allows for further, automatic analysis, like extraction of plot, intent, event causality, and event coreference. These tasks are impossible when the computer can\u2019t distinguish between which stories are told in what spans of text. There are two key contributions in my work: 1) my identification of features that accurately extract elements of narrative structure and 2) the gold-standard data and reports generated from running annotation studies on identifying narrative structure.</p>\" ],\n    \"identifier\" : \"oai:uofm.library.fiu_etd:oai:digitalcommons.fiu.edu:etd-5119\",\n    \"rights\" : [ {\n      \"@id\" : \"http://rightsstatements.org/vocab/InC/1.0/\"\n    } ],\n    \"subject\" : [ {\n      \"name\" : \"NLP\"\n    }, {\n      \"name\" : \"AI\"\n    }, {\n      \"name\" : \"NLU\"\n    }, {\n      \"name\" : \"Narratology\"\n    }, {\n      \"name\" : \"Narrative Levels\"\n    }, {\n      \"name\" : \"Computer Science\"\n    }, {\n      \"name\" : \"computational models of narrative\"\n    }, {\n      \"name\" : \"Artificial Intelligence and Robotics\"\n    }, {\n      \"name\" : \"Digital Humanities\"\n    }, {\n      \"name\" : \"Other Computer Sciences\"\n    } ],\n    \"title\" : [ \"Automatic Extraction of Narrative Structure from Long Form Text\" ]\n  },\n  \"aggregatedCHO\" : \"#sourceResource\",\n  \"dataProvider\" : \"Florida International University Libraries\",\n  \"isShownAt\" : \"https://digitalcommons.fiu.edu/etd/3912\",\n  \"provider\" : {\n    \"name\" : \"Sunshine State Digital Network\",\n    \"@id\" : \"UNDETERMINED\"\n  }\n}"
+         },
+         "provider": {
+            "@id": "http://dp.la/api/contributor/florida",
+            "name": "Sunshine State Digital Network"
+         },
+         "sourceResource": {
+            "@id": "http://dp.la/api/items/c843dc50f3bf2c42e8fe836581618413#SourceResource",
+            "contributor": [
+               "Mark Finlayson",
+               "Bogdan Carbunar",
+               "Shu-Ching Chen",
+               "Anthony Dick",
+               "Zhiming Zhao"
+            ],
+            "creator": [
+               "Eisenberg, Joshua Daniel"
+            ],
+            "date": [
+               {
+                  "displayDate": "2018-11-02T07:00:00Z"
+               }
+            ],
+            "description": [
+               "Automatic understanding of stories is a long-time goal of artificial intelligence and natural language processing research communities. Stories literally explain the human experience. Understanding our stories promotes the understanding of both individuals and groups of people",
+               "various cultures, societies, families, organizations, governments, and corporations, to name a few. People use stories to share information. Stories are told \u2013by narrators\u2013 in linguistic bundles of words called narratives. My work has given computers awareness of narrative structure. Specifically, where are the boundaries of a narrative in a text. This is the task of determining where a narrative begins and ends, a non-trivial task, because people rarely tell one story at a time. People don\u2019t specifically announce when we are starting or stopping our stories: We interrupt each other. We tell stories within stories. Before my work, computers had no awareness of narrative boundaries, essentially where stories begin and end. My programs can extract narrative boundaries from novels and short stories with an F1 of 0.65. Before this I worked on teaching computers to identify which paragraphs of text have story content, with an F1 of 0.75 (which is state of the art). Additionally, I have taught computers to identify the narrative point of view (POV",
+               "how the narrator identifies themselves) and diegesis (how involved in the story\u2019s action is the narrator) with F1 of over 0.90 for both narrative characteristics. For the narrative POV, diegesis, and narrative level extractors I ran annotation studies, with high agreement, that allowed me to teach computational models to identify structural elements of narrative through supervised machine learning. My work has given computers the ability to find where stories begin and end in raw text. This allows for further, automatic analysis, like extraction of plot, intent, event causality, and event coreference. These tasks are impossible when the computer can\u2019t distinguish between which stories are told in what spans of text. There are two key contributions in my work: 1) my identification of features that accurately extract elements of narrative structure and 2) the gold-standard data and reports generated from running annotation studies on identifying narrative structure."
+            ],
+            "identifier": [
+               "oai:uofm.library.fiu_etd:oai:digitalcommons.fiu.edu:etd-5119"
+            ],
+            "subject": [
+               {
+                  "name": "NLP"
+               },
+               {
+                  "name": "AI"
+               },
+               {
+                  "name": "NLU"
+               },
+               {
+                  "name": "Narratology"
+               },
+               {
+                  "name": "Narrative Levels"
+               },
+               {
+                  "name": "Computer Science"
+               },
+               {
+                  "name": "Computational models of narrative"
+               },
+               {
+                  "name": "Artificial Intelligence and Robotics"
+               },
+               {
+                  "name": "Digital Humanities"
+               },
+               {
+                  "name": "Other Computer Sciences"
+               }
+            ],
+            "title": [
+               "Automatic Extraction of Narrative Structure from Long Form Text"
+            ]
+         },
+         "@type": "ore:Aggregation"
+      }
+   ],
+   "facets": []
+}
