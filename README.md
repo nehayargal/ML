@@ -81,3 +81,69 @@ Applied techniques:
 
 ## 📂 Repository Structure
 
+ML/
+│
+├── API/
+├── EDA-Tabular (IRS data set)/
+├── EDA-Text/
+├── RSS/
+├── Scrapy/
+├── Web scraping/
+└── .gitignore
+
+
+---
+
+## 📈 Engineering Practices Demonstrated
+
+- Modular project structure
+- Data workflow clarity
+- Clear separation of concerns
+- Reproducible analysis notebooks
+- Practical automation use cases
+- Real-world dataset handling
+
+---
+
+## 🧩 What This Shows About My Skillset
+
+This repository reflects:
+
+- Ability to handle messy real-world data
+- Strong analytical thinking
+- Experience across structured & unstructured datasets
+- Comfort with both backend data workflows and applied ML
+- Practical automation experience
+- Curiosity-driven experimentation with applied AI systems
+
+---
+
+## 🎯 Future Enhancements
+
+Planned improvements:
+
+- Add model evaluation metrics dashboards
+- Add production-ready ML pipeline examples
+- Integrate FastAPI-based model serving
+- Add Dockerized ML environment
+- Add CI for reproducibility checks
+
+---
+
+## 👩‍💻 About Me
+
+**Neha Yargal**  
+Machine Learning & Platform Engineer  
+Specializing in scalable backend systems and AI-driven workflows.
+
+---
+
+## ⭐ Why This Repository Exists
+
+To showcase practical, hands-on applied ML engineering beyond just model training — including:
+
+- Data sourcing
+- Transformation
+- Automation
+- Integration
+- Engineering thinking
